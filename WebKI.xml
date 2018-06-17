@@ -65,14 +65,11 @@
   <HelpKINode Title="ColorTools.ClampInt method" Url="html/c93d106c-fd23-63f2-e841-027a67bf2d59.htm" />
   <HelpKINode Title="ColorTools.ColorFromUint method" Url="html/64d7b061-7bb8-494e-894c-b13aae80be1a.htm" />
   <HelpKINode Title="ColorTools.ColorTemp2RGB method" Url="html/006dba59-f79d-8509-2d4e-b4273aab16f5.htm" />
-  <HelpKINode Title="ColorTools.DistinctColors enumeration" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
   <HelpKINode Title="ColorTools.FloatToIntClamp method" Url="html/8796b275-824b-0602-8167-d2cd63570488.htm" />
   <HelpKINode Title="ColorTools.HsvToRgb method" Url="html/3034cfc5-813f-e3ac-0fab-4fecf4247b11.htm" />
   <HelpKINode Title="ColorTools.InvertColor method" Url="html/81d1bd3f-c1f9-8f89-5e5f-c777c1010244.htm" />
   <HelpKINode Title="ColorTools.RgbToHsv method" Url="html/663eaa55-9ed2-7a2f-e9fd-5ed8c9aa1e6c.htm" />
   <HelpKINode Title="ColorTools.Vector4FromColor method" Url="html/fdfa7760-09e0-87a2-5178-b1a90736760e.htm" />
-  <HelpKINode Title="DarkOliveGreen enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="DeepYellowishBrown enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
   <HelpKINode Title="DeleteUnusedGLObjects method" Url="html/87fe2ac7-7363-1d8a-5498-1560753484b5.htm" />
   <HelpKINode Title="DisableVertexAttributes method" Url="html/6ab252c7-81a2-bbc2-fcde-9d8477e87870.htm" />
   <HelpKINode Title="EnableVertexAttributes method" Url="html/067ae5f0-bef8-dc59-770f-44f0fb634e27.htm" />
@@ -104,7 +101,9 @@
   <HelpKINode Title="Framebuffer.SamplePixelColor method" Url="html/56fd8d43-fde3-0dd8-9ee6-9c00e3194ac3.htm" />
   <HelpKINode Title="Framebuffer.Width property" Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
   <HelpKINode Title="FramebufferTarget property" Url="html/8e3f4fc3-068b-04f8-29aa-532656a4ed05.htm" />
+  <HelpKINode Title="GetDegrees method" Url="html/7251ab57-1488-a515-b6de-2ddc88c41162.htm" />
   <HelpKINode Title="GetErrorLog method" Url="html/3187e021-7ac7-903e-6f38-9a740fae08aa.htm" />
+  <HelpKINode Title="GetRadians method" Url="html/64294074-1404-12ef-72be-7d724786b8d3.htm" />
   <HelpKINode Title="GetStatus method" Url="html/77fd1e3c-80f4-c7f5-4451-5a7253a77d9c.htm" />
   <HelpKINode Title="GetVertexAttributeUniformLocation method" Url="html/c11d5532-a718-e1f6-cac0-f1b2b8de7de3.htm" />
   <HelpKINode Title="GLObjectManager class">
@@ -112,7 +111,6 @@
     <HelpKINode Title="methods" Url="html/fecb7cff-54c1-9ffa-a1a1-4168477ec1df.htm" />
   </HelpKINode>
   <HelpKINode Title="GLObjectManager.DeleteUnusedGLObjects method" Url="html/87fe2ac7-7363-1d8a-5498-1560753484b5.htm" />
-  <HelpKINode Title="GrayishYellow enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
   <HelpKINode Title="HasCheckedCompilation property" Url="html/e701fbf2-7c88-98db-e338-9e4bc2797eb4.htm" />
   <HelpKINode Title="Height property" Url="html/2f837a91-fe8e-2eb2-b695-ee12f8b53415.htm" />
   <HelpKINode Title="HsvToRgb method" Url="html/3034cfc5-813f-e3ac-0fab-4fecf4247b11.htm" />
@@ -125,13 +123,13 @@
   <HelpKINode Title="InvertColor method" Url="html/81d1bd3f-c1f9-8f89-5e5f-c777c1010244.htm" />
   <HelpKINode Title="LoadShader method" Url="html/e7e322c9-7d26-e6da-58be-31c06f4fc197.htm" />
   <HelpKINode Title="MagFilter property" Url="html/88c26997-38dc-3fcb-75db-4934eaa24ed8.htm" />
-  <HelpKINode Title="MediumGray enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
   <HelpKINode Title="MinFilter property" Url="html/1ecc7df4-d3c7-c89b-884f-19076031f1cd.htm" />
   <HelpKINode Title="modelViewMatrix field" Url="html/20dc7c4d-6acb-bae4-efed-8b52fc45d1c2.htm" />
   <HelpKINode Title="ModelViewMatrix property" Url="html/054848ed-f7ef-eedf-3444-9f9c2ae75779.htm" />
   <HelpKINode Title="mvpMatrix field" Url="html/16132a0f-aed5-d078-12b2-213813d4bb09.htm" />
   <HelpKINode Title="MvpMatrix property" Url="html/31f93dee-a418-61a8-6d9f-67e7e5f0fc0d.htm" />
   <HelpKINode Title="NearClipPlane property" Url="html/f9a6d8fa-8ac2-dc63-bb2c-3d6c45bb011e.htm" />
+  <HelpKINode Title="Orthogonalize method" Url="html/7254afa7-ec06-46e3-1358-45c345fff81f.htm" />
   <HelpKINode Title="Pan method" Url="html/3a58d14d-77f6-0b49-5d67-73b2376eb282.htm" />
   <HelpKINode Title="perspectiveMatrix field" Url="html/bafaa571-efa8-48cc-f01b-d6c0ad69576e.htm" />
   <HelpKINode Title="PerspectiveMatrix property" Url="html/02ed62ec-5d8a-87f8-c909-feb4877a7721.htm" />
@@ -175,7 +173,7 @@
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureCubeMap class" Url="html/3bd6f636-8f6e-5492-92e5-d22a62d05d80.htm" />
   <HelpKINode Title="SFGraphics.Tools namespace" Url="html/817ea4c3-ee09-529f-e1cd-88986c72cab7.htm" />
   <HelpKINode Title="SFGraphics.Tools.ColorTools class" Url="html/afcb5dc2-21c1-f018-86f5-ffd6976daf22.htm" />
-  <HelpKINode Title="SFGraphics.Tools.ColorTools.DistinctColors enumeration" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
+  <HelpKINode Title="SFGraphics.Tools.VectorTools class" Url="html/c2639d24-9c76-ebe2-838f-65acd217af8d.htm" />
   <HelpKINode Title="Shader class">
     <HelpKINode Title="Shader Class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm" />
     <HelpKINode Title="constructor" Url="html/9ec9665b-395b-7e68-dc8f-06aa56ef3044.htm" />
@@ -199,13 +197,6 @@
   <HelpKINode Title="Shader.SetVector3 method" Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm" />
   <HelpKINode Title="Shader.SetVector4 method" Url="html/1c3319f3-b6c4-7a13-5fb1-1738c9d4f8b9.htm" />
   <HelpKINode Title="Shader.Shader constructor" Url="html/9ec9665b-395b-7e68-dc8f-06aa56ef3044.htm" />
-  <HelpKINode Title="StrongBlue enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongPurple enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongPurplishPink enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongPurplishRed enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongReddishBrown enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongViolet enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="StrongYellowishPink enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
   <HelpKINode Title="Texture class">
     <HelpKINode Title="Texture Class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm" />
     <HelpKINode Title="constructor" Url="html/7fff33eb-6736-173d-5020-55d7dc1e98ad.htm" />
@@ -248,15 +239,13 @@
   <HelpKINode Title="TranslationMatrix property" Url="html/6ca46b62-f4a3-7180-809c-ef0c9e76fab4.htm" />
   <HelpKINode Title="UpdateMatrices method" Url="html/b1fac833-274a-1618-95cf-eb72b8900ae0.htm" />
   <HelpKINode Title="Vector4FromColor method" Url="html/fdfa7760-09e0-87a2-5178-b1a90736760e.htm" />
-  <HelpKINode Title="VeryLightBlue enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividGreen enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividGreenishYellow enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividOrange enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividOrangeYellow enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividRed enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividReddishOrange enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividYellow enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
-  <HelpKINode Title="VividYellowishGreen enumeration member" Url="html/2e663151-b87d-60a6-d973-9a96e71ed777.htm" />
+  <HelpKINode Title="VectorTools class">
+    <HelpKINode Title="VectorTools Class" Url="html/c2639d24-9c76-ebe2-838f-65acd217af8d.htm" />
+    <HelpKINode Title="methods" Url="html/071cfc4a-0bfb-a688-3bed-8899594d1c29.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VectorTools.GetDegrees method" Url="html/7251ab57-1488-a515-b6de-2ddc88c41162.htm" />
+  <HelpKINode Title="VectorTools.GetRadians method" Url="html/64294074-1404-12ef-72be-7d724786b8d3.htm" />
+  <HelpKINode Title="VectorTools.Orthogonalize method" Url="html/7254afa7-ec06-46e3-1358-45c345fff81f.htm" />
   <HelpKINode Title="Width property" Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
   <HelpKINode Title="Zoom method" Url="html/c9b0e124-f4c8-de42-939d-5e0c292ab3d8.htm" />
 </HelpKI>
