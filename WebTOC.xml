@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="ed214cd4-7aa2-4c8f-8d75-a142ad187559" Title="SFGraphics" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
-    <HelpTOCNode Id="02aedbfd-4a7c-4ac3-b724-7651830eb912" Title="SFGraphics.Cameras" Url="html/f6c90837-9263-45f4-526c-1308df151f51.htm">
-      <HelpTOCNode Id="7f2ef622-b752-4b72-ac6c-0dab22139809" Title="Camera Class" Url="html/55763658-fa95-89b3-dd63-d435d83a2965.htm">
-        <HelpTOCNode Id="ceebb615-3bce-48c9-bd9f-94399b0621c4" Title="Camera Constructor " Url="html/d6a9ee60-176b-f104-e454-ae7d5dd78080.htm">
+  <HelpTOCNode Id="8ff1c3d6-ecee-4043-a2d9-b40a82f24390" Title="SFGraphics" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="72483f3a-bd71-4a3c-939d-49dc5e58f5fd" Title="SFGraphics.Cameras" Url="html/f6c90837-9263-45f4-526c-1308df151f51.htm">
+      <HelpTOCNode Id="b07eaff9-5ecc-454d-a7a7-af1d96125957" Title="Camera Class" Url="html/55763658-fa95-89b3-dd63-d435d83a2965.htm">
+        <HelpTOCNode Id="f797eb20-91c6-40a8-87a9-052876cefb47" Title="Camera Constructor " Url="html/d6a9ee60-176b-f104-e454-ae7d5dd78080.htm">
           <HelpTOCNode Title="Camera Constructor " Url="html/4d756636-3e4e-c7d1-fc19-d6cba6daf818.htm" />
           <HelpTOCNode Title="Camera Constructor (Vector3, Single, Single, Int32, Int32)" Url="html/7061292d-4151-1c27-9550-cfc7a8fd4903.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c4a6f63b-450e-44ae-a2e9-03cd48065ed8" Title="Camera Properties" Url="html/dbb3b1af-b626-a151-632b-089e7fb58e02.htm">
+        <HelpTOCNode Id="b1ff119d-589d-443b-9be2-ba8440a9e2c3" Title="Camera Properties" Url="html/dbb3b1af-b626-a151-632b-089e7fb58e02.htm">
           <HelpTOCNode Title="FarClipPlane Property " Url="html/7c51499c-c4db-a8ca-1586-008f23352da5.htm" />
           <HelpTOCNode Title="FovDegrees Property " Url="html/aa39781b-8fe5-2fc2-60ad-6b1885f629b4.htm" />
           <HelpTOCNode Title="FovRadians Property " Url="html/57966e17-1097-e529-f87a-7fa7c098f7e1.htm" />
@@ -24,7 +24,7 @@
           <HelpTOCNode Title="RotationYRadians Property " Url="html/cc68e1fd-fb0a-b326-340f-e08b6f3e0e02.htm" />
           <HelpTOCNode Title="TranslationMatrix Property " Url="html/6ca46b62-f4a3-7180-809c-ef0c9e76fab4.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8e6817f2-d214-459e-abb1-4af97e316535" Title="Camera Methods" Url="html/8ef9dd07-95ad-4337-40b6-9b6e4a98d566.htm">
+        <HelpTOCNode Id="f104e015-a771-4264-ae2f-3972968ca63b" Title="Camera Methods" Url="html/8ef9dd07-95ad-4337-40b6-9b6e4a98d566.htm">
           <HelpTOCNode Title="FrameBoundingSphere Method " Url="html/da827802-2636-fa2d-9326-6e8fbb1d9ea5.htm" />
           <HelpTOCNode Title="Pan Method " Url="html/3a58d14d-77f6-0b49-5d67-73b2376eb282.htm" />
           <HelpTOCNode Title="ResetToDefaultPosition Method " Url="html/4b3cb49c-473c-724f-6de8-d6a501671dcc.htm" />
@@ -32,7 +32,7 @@
           <HelpTOCNode Title="UpdateMatrices Method " Url="html/b1fac833-274a-1618-95cf-eb72b8900ae0.htm" />
           <HelpTOCNode Title="Zoom Method " Url="html/c9b0e124-f4c8-de42-939d-5e0c292ab3d8.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bd4a9b6a-5719-4138-80fd-4265ceb22ca9" Title="Camera Fields" Url="html/2267163b-9df0-f359-0ded-5bd97e7b560d.htm">
+        <HelpTOCNode Id="2cc2de89-4c8c-4148-bd72-49e6200c737a" Title="Camera Fields" Url="html/2267163b-9df0-f359-0ded-5bd97e7b560d.htm">
           <HelpTOCNode Title="modelViewMatrix Field" Url="html/20dc7c4d-6acb-bae4-efed-8b52fc45d1c2.htm" />
           <HelpTOCNode Title="mvpMatrix Field" Url="html/16132a0f-aed5-d078-12b2-213813d4bb09.htm" />
           <HelpTOCNode Title="perspectiveMatrix Field" Url="html/bafaa571-efa8-48cc-f01b-d6c0ad69576e.htm" />
@@ -43,24 +43,24 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="447b12ec-0352-4f47-8866-342b91d09ee8" Title="SFGraphics.GLObjects" Url="html/89eff43d-eee7-adc8-ae13-a8fe4590eee0.htm">
-      <HelpTOCNode Id="68c9041b-35ed-4e65-ad28-fd8c2d4f6730" Title="BufferObject Class" Url="html/36d87545-2ab6-9669-58c0-e34229551ff3.htm">
+    <HelpTOCNode Id="d7d85d18-1e77-4dd9-817a-24a9b5443e97" Title="SFGraphics.GLObjects" Url="html/89eff43d-eee7-adc8-ae13-a8fe4590eee0.htm">
+      <HelpTOCNode Id="774a8771-e5af-4841-ad6c-fe86dd192c4b" Title="BufferObject Class" Url="html/36d87545-2ab6-9669-58c0-e34229551ff3.htm">
         <HelpTOCNode Title="BufferObject Constructor " Url="html/89df941d-0ffb-8ef8-24b4-050615608c51.htm" />
-        <HelpTOCNode Id="f536fa68-e8fa-477b-9ea1-84a60b0b1b5e" Title="BufferObject Properties" Url="html/02dd432b-e141-f113-d7f9-f4f5b43d58cc.htm">
+        <HelpTOCNode Id="82dbed20-f984-4b3f-aa1f-b8c57a1635d6" Title="BufferObject Properties" Url="html/02dd432b-e141-f113-d7f9-f4f5b43d58cc.htm">
           <HelpTOCNode Title="BufferTarget Property " Url="html/a8950073-749b-76e7-64e5-705c5d927cca.htm" />
           <HelpTOCNode Title="Id Property " Url="html/dd8e248a-a0b1-8c20-0eca-939db6eb120e.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="53bf758e-b050-4d00-b52d-5ce9ac9178de" Title="BufferObject Methods" Url="html/54df5996-a397-372d-7638-1559a9a8abe8.htm">
+        <HelpTOCNode Id="167bd79d-b783-4562-9f1d-574872918337" Title="BufferObject Methods" Url="html/54df5996-a397-372d-7638-1559a9a8abe8.htm">
           <HelpTOCNode Title="Bind Method " Url="html/54efe636-cedb-1b89-b0bd-f09374c08cf7.htm" />
           <HelpTOCNode Title="Finalize Method " Url="html/20b9f83a-ba12-60ec-dbd5-74b5b0413b4c.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7876d8bc-f152-4dd9-af37-a0445a6df427" Title="Framebuffer Class" Url="html/593236b6-fb7b-90de-e7dd-23447b83eec0.htm">
-        <HelpTOCNode Id="f3345d3d-f866-4b93-bf9b-559c3850bb29" Title="Framebuffer Constructor " Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm">
+      <HelpTOCNode Id="c69ebcaa-bfab-4f46-b8f4-1c8b09cf310e" Title="Framebuffer Class" Url="html/593236b6-fb7b-90de-e7dd-23447b83eec0.htm">
+        <HelpTOCNode Id="4afacddb-02d2-4aee-9576-ea1b74498946" Title="Framebuffer Constructor " Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm">
           <HelpTOCNode Title="Framebuffer Constructor (FramebufferTarget)" Url="html/c0f98633-bcbe-4978-352b-5c6a8aba0033.htm" />
           <HelpTOCNode Title="Framebuffer Constructor (FramebufferTarget, Int32, Int32, PixelInternalFormat)" Url="html/b6f13c6d-8804-b6af-12f1-15d13b844354.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="44f190e9-5f7f-42c1-88fc-380f1b72a9d7" Title="Framebuffer Properties" Url="html/b0ce22aa-93e6-518d-7b5d-16e6fda6688f.htm">
+        <HelpTOCNode Id="12cd1287-bd00-4b33-80a3-a7077eaf8f7f" Title="Framebuffer Properties" Url="html/b0ce22aa-93e6-518d-7b5d-16e6fda6688f.htm">
           <HelpTOCNode Title="ColorAttachment0Tex Property " Url="html/dd91497e-594f-90e5-6044-8f0d1a9ad869.htm" />
           <HelpTOCNode Title="FramebufferTarget Property " Url="html/8e3f4fc3-068b-04f8-29aa-532656a4ed05.htm" />
           <HelpTOCNode Title="Height Property " Url="html/2f837a91-fe8e-2eb2-b695-ee12f8b53415.htm" />
@@ -68,54 +68,58 @@
           <HelpTOCNode Title="PixelInternalFormat Property " Url="html/3e282ee9-19be-a4ba-10d1-024165988adf.htm" />
           <HelpTOCNode Title="Width Property " Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0f67833a-9a85-409e-9f3b-60dd93365e70" Title="Framebuffer Methods" Url="html/3f7feb9d-d1f9-bb4f-9852-d2bf120051db.htm">
+        <HelpTOCNode Id="da94e50b-0eda-4840-9ef7-9956f09f661f" Title="Framebuffer Methods" Url="html/3f7feb9d-d1f9-bb4f-9852-d2bf120051db.htm">
           <HelpTOCNode Title="Bind Method " Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/991cdeb3-0a86-f44a-9d3b-42bda60996cf.htm" />
           <HelpTOCNode Title="GetStatus Method " Url="html/77fd1e3c-80f4-c7f5-4451-5a7253a77d9c.htm" />
           <HelpTOCNode Title="ReadImagePixels Method " Url="html/96c59787-5e8f-f458-054a-647133fc41d0.htm" />
           <HelpTOCNode Title="SamplePixelColor Method " Url="html/56fd8d43-fde3-0dd8-9ee6-9c00e3194ac3.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6743e192-645b-4053-b157-c527a3cfcd68" Title="GLObjectManager Class" Url="html/c481df35-246e-5f03-c926-68b6921c3f40.htm">
-        <HelpTOCNode Id="4ece52db-b484-4903-b7d3-5bd9ce9277ec" Title="GLObjectManager Methods" Url="html/fecb7cff-54c1-9ffa-a1a1-4168477ec1df.htm">
+      <HelpTOCNode Id="01bde359-b536-4a6e-bc28-90b7a892c14c" Title="GLObjectManager Class" Url="html/c481df35-246e-5f03-c926-68b6921c3f40.htm">
+        <HelpTOCNode Id="714d226c-6bd7-4430-b0aa-277dead29f6e" Title="GLObjectManager Methods" Url="html/fecb7cff-54c1-9ffa-a1a1-4168477ec1df.htm">
           <HelpTOCNode Title="DeleteUnusedGLObjects Method " Url="html/87fe2ac7-7363-1d8a-5498-1560753484b5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d2fd077d-f8c6-4925-b203-593e409bf8de" Title="SFGraphics.GLObjects.Shaders" Url="html/e67cb253-66c7-f317-f0a8-771f13f5400b.htm">
-      <HelpTOCNode Id="88d5ccc9-96d1-483d-9d98-9fdc2417ba22" Title="Shader Class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm">
+    <HelpTOCNode Id="7c04942e-151e-450a-bcf2-c8b265ab3d3d" Title="SFGraphics.GLObjects.Shaders" Url="html/e67cb253-66c7-f317-f0a8-771f13f5400b.htm">
+      <HelpTOCNode Id="2a09ecd2-9a2c-42e6-9aac-559e93ecc7c0" Title="Shader Class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm">
         <HelpTOCNode Title="Shader Constructor " Url="html/9ec9665b-395b-7e68-dc8f-06aa56ef3044.htm" />
-        <HelpTOCNode Id="934e2df5-0161-4377-8f4f-fc313af29b4d" Title="Shader Properties" Url="html/7a83572d-4392-39c8-f468-798ab2546e22.htm">
-          <HelpTOCNode Title="HasCheckedCompilation Property " Url="html/e701fbf2-7c88-98db-e338-9e4bc2797eb4.htm" />
+        <HelpTOCNode Id="725034a2-d8a4-4347-b5da-f2e79e3c59ca" Title="Shader Properties" Url="html/7a83572d-4392-39c8-f468-798ab2546e22.htm">
           <HelpTOCNode Title="Id Property " Url="html/e7b883a5-dfe1-f006-639c-a57e224c0abc.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="33256342-3b3c-4e24-8c61-b6c34075e20e" Title="Shader Methods" Url="html/9f763234-5311-6efc-fa7b-9952779051dc.htm">
+        <HelpTOCNode Id="2b23563f-c3fa-4607-847c-4e88efb65e75" Title="Shader Methods" Url="html/9f763234-5311-6efc-fa7b-9952779051dc.htm">
           <HelpTOCNode Title="DisableVertexAttributes Method " Url="html/6ab252c7-81a2-bbc2-fcde-9d8477e87870.htm" />
           <HelpTOCNode Title="EnableVertexAttributes Method " Url="html/067ae5f0-bef8-dc59-770f-44f0fb634e27.htm" />
           <HelpTOCNode Title="Finalize Method " Url="html/4d42f0f2-056d-32c0-7243-a7dcc2ae687e.htm" />
           <HelpTOCNode Title="GetErrorLog Method " Url="html/3187e021-7ac7-903e-6f38-9a740fae08aa.htm" />
           <HelpTOCNode Title="GetVertexAttributeUniformLocation Method " Url="html/c11d5532-a718-e1f6-cac0-f1b2b8de7de3.htm" />
-          <HelpTOCNode Title="LoadShader Method " Url="html/e7e322c9-7d26-e6da-58be-31c06f4fc197.htm" />
+          <HelpTOCNode Title="LoadShader Method " Url="html/5f0eede5-1368-6f23-74f1-1565fe34c533.htm" />
           <HelpTOCNode Title="ProgramCreatedSuccessfully Method " Url="html/2e634bc5-309f-fda5-be9a-845751da6f88.htm" />
           <HelpTOCNode Title="SetBoolToInt Method " Url="html/e82e2158-83af-ee58-1999-547e8873bf40.htm" />
           <HelpTOCNode Title="SetFloat Method " Url="html/1d10a1f7-c36c-73a0-277a-2983feefe1ee.htm" />
           <HelpTOCNode Title="SetInt Method " Url="html/55394978-c437-f110-9c63-ac6b5a076322.htm" />
           <HelpTOCNode Title="SetMatrix4x4 Method " Url="html/32e64187-a5a0-fe0c-22f5-312989916caf.htm" />
           <HelpTOCNode Title="SetUint Method " Url="html/3d88044e-37b9-7936-eae1-6cb88ae926c1.htm" />
-          <HelpTOCNode Id="49fa18df-ba0a-4c96-9a2a-91654b78939c" Title="SetVector3 Method " Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm">
+          <HelpTOCNode Id="572fdaa7-fc52-41d5-a1dc-99fccfbfb3af" Title="SetVector2 Method " Url="html/f880525a-5438-f5e4-a0a6-19229c367452.htm">
+            <HelpTOCNode Title="SetVector2 Method (String, Vector2)" Url="html/fbfc27ac-30fa-514a-dae4-eb2bc4679aaf.htm" />
+            <HelpTOCNode Title="SetVector2 Method (String, Single, Single)" Url="html/ae9ed471-b3b8-2306-44f0-e7275d291ef7.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="bede95a6-175c-4cef-a3ff-4c99b224aae7" Title="SetVector3 Method " Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm">
             <HelpTOCNode Title="SetVector3 Method (String, Vector3)" Url="html/6c810656-ecbc-393e-f726-bc4929e81ed5.htm" />
             <HelpTOCNode Title="SetVector3 Method (String, Single, Single, Single)" Url="html/eb1f30d7-bb77-f207-83ff-5cef1272302a.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="9a9053c5-388a-4ce3-acc7-6ca09c882b5f" Title="SetVector4 Method " Url="html/1c3319f3-b6c4-7a13-5fb1-1738c9d4f8b9.htm">
+          <HelpTOCNode Id="f7e698ff-e68d-4409-9502-ff02917d26cf" Title="SetVector4 Method " Url="html/1c3319f3-b6c4-7a13-5fb1-1738c9d4f8b9.htm">
             <HelpTOCNode Title="SetVector4 Method (String, Vector4)" Url="html/a79bb458-8e94-40b0-677c-ee7e5485d229.htm" />
             <HelpTOCNode Title="SetVector4 Method (String, Single, Single, Single, Single)" Url="html/99f7092e-ef2e-e084-8b03-f7900847181a.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6557ac5c-d968-439c-b59a-5cff17d206e0" Title="SFGraphics.GLObjects.Textures" Url="html/8731cd26-8abe-c112-041e-e1ec2ff957cc.htm">
-      <HelpTOCNode Id="b4ec0553-086a-4b2b-8902-08f323695325" Title="Texture Class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm">
+    <HelpTOCNode Id="0efe3e71-2507-45fb-8081-bce05947135f" Title="SFGraphics.GLObjects.Textures" Url="html/8731cd26-8abe-c112-041e-e1ec2ff957cc.htm">
+      <HelpTOCNode Id="f9cbf4ff-2375-4a6b-8330-ed4907ef9d2b" Title="Texture Class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm">
         <HelpTOCNode Title="Texture Constructor " Url="html/7fff33eb-6736-173d-5020-55d7dc1e98ad.htm" />
-        <HelpTOCNode Id="808f8c7a-35e6-4d31-8ebb-b8ddaa534cf8" Title="Texture Properties" Url="html/15f97787-23e7-a814-7da3-25fc3b83fc06.htm">
+        <HelpTOCNode Id="d71db182-b276-4c09-8b6e-18e8ba9777a8" Title="Texture Properties" Url="html/15f97787-23e7-a814-7da3-25fc3b83fc06.htm">
           <HelpTOCNode Title="Id Property " Url="html/d0d7b5dd-08a4-1f6a-c89e-1f2deacd4be0.htm" />
           <HelpTOCNode Title="MagFilter Property " Url="html/88c26997-38dc-3fcb-75db-4934eaa24ed8.htm" />
           <HelpTOCNode Title="MinFilter Property " Url="html/1ecc7df4-d3c7-c89b-884f-19076031f1cd.htm" />
@@ -124,54 +128,55 @@
           <HelpTOCNode Title="TextureWrapS Property " Url="html/04bd2915-bfff-1086-79fb-99326db44d09.htm" />
           <HelpTOCNode Title="TextureWrapT Property " Url="html/4ccdb692-195a-c1d4-d02d-f349a703ca0d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f28afa28-d350-4ebd-abbb-abd0f74d36d0" Title="Texture Methods" Url="html/672cf73c-f6f0-c080-0167-7d7a8bf11c46.htm">
+        <HelpTOCNode Id="8057980c-8926-488b-9f3d-9b3a2a6480b9" Title="Texture Methods" Url="html/672cf73c-f6f0-c080-0167-7d7a8bf11c46.htm">
           <HelpTOCNode Title="Bind Method " Url="html/b87ff682-82c0-9689-8ca9-54b932a3cc74.htm" />
           <HelpTOCNode Title="Finalize Method " Url="html/6a2dd647-59b5-a55f-5b4c-7872e4ef18cc.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b57d49d2-2c03-43e7-a8b3-6f7c17b0ae1e" Title="Texture Fields" Url="html/2894eaa1-ca46-7c99-ba1c-f64458887427.htm">
+        <HelpTOCNode Id="04952b14-27c2-4091-9ef0-355597c455cb" Title="Texture Fields" Url="html/2894eaa1-ca46-7c99-ba1c-f64458887427.htm">
           <HelpTOCNode Title="textureTarget Field" Url="html/9078649c-85e5-b594-f874-a9f737047e65.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="68ab57e1-59a4-4596-9f4a-36e1f1d77da0" Title="Texture2D Class" Url="html/07a44df6-ea50-7391-fec0-a5d5956700c2.htm">
-        <HelpTOCNode Id="b9cd5914-87b2-420f-b88c-50c2e5077c9c" Title="Texture2D Constructor " Url="html/bb4b033b-1931-06cd-24e3-043e729352ef.htm">
+      <HelpTOCNode Id="1927c517-dab8-4766-b7b6-b96bbb0575da" Title="Texture2D Class" Url="html/07a44df6-ea50-7391-fec0-a5d5956700c2.htm">
+        <HelpTOCNode Id="64631415-13a8-479d-b2f6-d63405691ba4" Title="Texture2D Constructor " Url="html/bb4b033b-1931-06cd-24e3-043e729352ef.htm">
           <HelpTOCNode Title="Texture2D Constructor (Bitmap)" Url="html/f546e0b4-ea5d-0039-81dc-e96c726dc068.htm" />
           <HelpTOCNode Title="Texture2D Constructor (Int32, Int32)" Url="html/553f3092-54bf-7cc7-c23e-313a96ed82f8.htm" />
-          <HelpTOCNode Title="Texture2D Constructor (Int32, Int32, Byte[], PixelInternalFormat)" Url="html/6f28c7f8-25a0-627e-a657-3749d6e52b6e.htm" />
-          <HelpTOCNode Title="Texture2D Constructor (Int32, Int32, List(Byte[]), PixelInternalFormat)" Url="html/16499e11-a17e-70b8-af49-f070b9eff6a7.htm" />
+          <HelpTOCNode Title="Texture2D Constructor (Int32, Int32, List(Byte[]), Int32, Boolean, PixelInternalFormat)" Url="html/809a654f-bc7f-5979-5443-8b3e47896f1c.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Texture2D Properties" Url="html/13f3dc90-31b1-f45d-6a2f-d7693caac055.htm" />
         <HelpTOCNode Title="Texture2D Methods" Url="html/ff5c83a8-fc27-f8e8-1f5a-fc3ee2b01f3a.htm" />
         <HelpTOCNode Title="Texture2D Fields" Url="html/f81c606e-caed-195e-eee7-3247c66f287a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bd9a71f3-a447-4e47-8990-68433fc27f5d" Title="TextureCubeMap Class" Url="html/3bd6f636-8f6e-5492-92e5-d22a62d05d80.htm">
+      <HelpTOCNode Id="b77f2822-e935-43ba-8cdb-e1a0fa2f25d4" Title="TextureCubeMap Class" Url="html/3bd6f636-8f6e-5492-92e5-d22a62d05d80.htm">
         <HelpTOCNode Title="TextureCubeMap Constructor " Url="html/1eda9dac-d622-2631-72a3-bfe0d6e8b684.htm" />
         <HelpTOCNode Title="TextureCubeMap Properties" Url="html/55fa621a-8af0-8464-4bce-cab5b387ccb6.htm" />
         <HelpTOCNode Title="TextureCubeMap Methods" Url="html/8273db45-183f-9422-27fd-62edc65e09f1.htm" />
         <HelpTOCNode Title="TextureCubeMap Fields" Url="html/35255db8-6d74-0ad6-5da9-a529eb41fe90.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a68e70e7-2ece-437b-b648-18909523bb3f" Title="SFGraphics.Tools" Url="html/817ea4c3-ee09-529f-e1cd-88986c72cab7.htm">
-      <HelpTOCNode Id="574f645a-bfba-49e0-96c4-b32baf27d180" Title="ColorTools Class" Url="html/afcb5dc2-21c1-f018-86f5-ffd6976daf22.htm">
-        <HelpTOCNode Id="20778a8d-8213-4fbc-9663-748a061fb11b" Title="ColorTools Methods" Url="html/c3a322c7-4049-b4ad-f967-56064b95789a.htm">
+    <HelpTOCNode Id="8a5e2c2f-9187-44b0-b6ef-b899c7d8d0a6" Title="SFGraphics.Tools" Url="html/817ea4c3-ee09-529f-e1cd-88986c72cab7.htm">
+      <HelpTOCNode Id="6f33cdfd-e3b6-4749-8ad6-aea65c514cfd" Title="ColorTools Class" Url="html/afcb5dc2-21c1-f018-86f5-ffd6976daf22.htm">
+        <HelpTOCNode Id="2b8f0ca7-077e-4a64-be37-955d141cccd6" Title="ColorTools Methods" Url="html/c3a322c7-4049-b4ad-f967-56064b95789a.htm">
           <HelpTOCNode Title="ClampFloat Method " Url="html/79b74944-a9d9-b1f8-e925-220b1b5b5a7f.htm" />
           <HelpTOCNode Title="ClampInt Method " Url="html/c93d106c-fd23-63f2-e841-027a67bf2d59.htm" />
           <HelpTOCNode Title="ColorFromUint Method " Url="html/64d7b061-7bb8-494e-894c-b13aae80be1a.htm" />
           <HelpTOCNode Title="ColorTemp2RGB Method " Url="html/006dba59-f79d-8509-2d4e-b4273aab16f5.htm" />
           <HelpTOCNode Title="FloatToIntClamp Method " Url="html/8796b275-824b-0602-8167-d2cd63570488.htm" />
-          <HelpTOCNode Id="1c0c3bd0-ab5e-408a-8058-76b374aa4a99" Title="HsvToRgb Method " Url="html/3034cfc5-813f-e3ac-0fab-4fecf4247b11.htm">
+          <HelpTOCNode Id="cb0372a0-2ba4-476d-813d-1a0219f3d7be" Title="HsvToRgb Method " Url="html/3034cfc5-813f-e3ac-0fab-4fecf4247b11.htm">
             <HelpTOCNode Title="HsvToRgb Method (Vector3)" Url="html/e37e9aa2-007a-b1b4-afeb-41efd0156ffa.htm" />
             <HelpTOCNode Title="HsvToRgb Method (Single, Single, Single, Single, Single, Single)" Url="html/8ab10264-79b3-0157-2de0-90f3a54a2d50.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="InvertColor Method " Url="html/81d1bd3f-c1f9-8f89-5e5f-c777c1010244.htm" />
-          <HelpTOCNode Id="30096061-522a-4302-9e06-58bbb6158cbe" Title="RgbToHsv Method " Url="html/663eaa55-9ed2-7a2f-e9fd-5ed8c9aa1e6c.htm">
+          <HelpTOCNode Id="9b4518b3-d3ad-4dd8-95c6-2f7eec0a8fe2" Title="RgbToHsv Method " Url="html/663eaa55-9ed2-7a2f-e9fd-5ed8c9aa1e6c.htm">
             <HelpTOCNode Title="RgbToHsv Method (Vector3)" Url="html/f3fb3295-9ac0-9067-567e-56d3d0d3f792.htm" />
             <HelpTOCNode Title="RgbToHsv Method (Single, Single, Single, Single, Single, Single)" Url="html/d4a4a1e7-d0d8-8c18-dd8e-b4be50153c7a.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="Vector4FromColor Method " Url="html/fdfa7760-09e0-87a2-5178-b1a90736760e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d7ab0061-7551-469e-bfed-f31e216dbae9" Title="VectorTools Class" Url="html/c2639d24-9c76-ebe2-838f-65acd217af8d.htm">
-        <HelpTOCNode Id="a1c82775-e246-4109-98c4-34282d4199eb" Title="VectorTools Methods" Url="html/071cfc4a-0bfb-a688-3bed-8899594d1c29.htm">
+      <HelpTOCNode Id="b14893d1-a8e3-4195-a7eb-55149f866669" Title="VectorTools Class" Url="html/c2639d24-9c76-ebe2-838f-65acd217af8d.htm">
+        <HelpTOCNode Id="06fb7410-ee42-4df2-999e-f2ca15894f3b" Title="VectorTools Methods" Url="html/071cfc4a-0bfb-a688-3bed-8899594d1c29.htm">
+          <HelpTOCNode Title="CalculateNormal Method " Url="html/b89dabfd-6988-24c8-c1d7-256c30d78271.htm" />
+          <HelpTOCNode Title="GenerateTangentBitangent Method " Url="html/d5d22f10-ca51-8d61-9028-88c57a7f7688.htm" />
           <HelpTOCNode Title="GetDegrees Method " Url="html/7251ab57-1488-a515-b6de-2ddc88c41162.htm" />
           <HelpTOCNode Title="GetRadians Method " Url="html/64294074-1404-12ef-72be-7d724786b8d3.htm" />
           <HelpTOCNode Title="Orthogonalize Method " Url="html/7254afa7-ec06-46e3-1358-45c345fff81f.htm" />
