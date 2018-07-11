@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="AttachShader method" Url="html/c6e41b28-3d01-d9e3-7a01-474ce41d8488.htm" />
   <HelpKINode Title="Bind method">
     <HelpKINode Title="BufferObject.Bind Method " Url="html/54efe636-cedb-1b89-b0bd-f09374c08cf7.htm" />
     <HelpKINode Title="Framebuffer.Bind Method " Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
@@ -55,8 +56,7 @@
   <HelpKINode Title="Camera.Zoom method" Url="html/c9b0e124-f4c8-de42-939d-5e0c292ab3d8.htm" />
   <HelpKINode Title="ClampFloat method" Url="html/79b74944-a9d9-b1f8-e925-220b1b5b5a7f.htm" />
   <HelpKINode Title="ClampInt method" Url="html/c93d106c-fd23-63f2-e841-027a67bf2d59.htm" />
-  <HelpKINode Title="ColorAttachment0Tex property" Url="html/dd91497e-594f-90e5-6044-8f0d1a9ad869.htm" />
-  <HelpKINode Title="ColorFromUint method" Url="html/64d7b061-7bb8-494e-894c-b13aae80be1a.htm" />
+  <HelpKINode Title="ColorAttachments property" Url="html/7ad7e700-57e6-2816-9ae6-c1477dec3c51.htm" />
   <HelpKINode Title="ColorTemp2RGB method" Url="html/006dba59-f79d-8509-2d4e-b4273aab16f5.htm" />
   <HelpKINode Title="ColorTools class">
     <HelpKINode Title="ColorTools Class" Url="html/afcb5dc2-21c1-f018-86f5-ffd6976daf22.htm" />
@@ -64,13 +64,13 @@
   </HelpKINode>
   <HelpKINode Title="ColorTools.ClampFloat method" Url="html/79b74944-a9d9-b1f8-e925-220b1b5b5a7f.htm" />
   <HelpKINode Title="ColorTools.ClampInt method" Url="html/c93d106c-fd23-63f2-e841-027a67bf2d59.htm" />
-  <HelpKINode Title="ColorTools.ColorFromUint method" Url="html/64d7b061-7bb8-494e-894c-b13aae80be1a.htm" />
   <HelpKINode Title="ColorTools.ColorTemp2RGB method" Url="html/006dba59-f79d-8509-2d4e-b4273aab16f5.htm" />
   <HelpKINode Title="ColorTools.FloatToIntClamp method" Url="html/8796b275-824b-0602-8167-d2cd63570488.htm" />
   <HelpKINode Title="ColorTools.HsvToRgb method" Url="html/3034cfc5-813f-e3ac-0fab-4fecf4247b11.htm" />
   <HelpKINode Title="ColorTools.InvertColor method" Url="html/81d1bd3f-c1f9-8f89-5e5f-c777c1010244.htm" />
   <HelpKINode Title="ColorTools.RgbToHsv method" Url="html/663eaa55-9ed2-7a2f-e9fd-5ed8c9aa1e6c.htm" />
   <HelpKINode Title="ColorTools.Vector4FromColor method" Url="html/fdfa7760-09e0-87a2-5178-b1a90736760e.htm" />
+  <HelpKINode Title="CreateGlShader method" Url="html/b931a024-2058-0a87-d37a-85e034ad7528.htm" />
   <HelpKINode Title="DeleteUnusedGLObjects method" Url="html/87fe2ac7-7363-1d8a-5498-1560753484b5.htm" />
   <HelpKINode Title="DisableVertexAttributes method" Url="html/6ab252c7-81a2-bbc2-fcde-9d8477e87870.htm" />
   <HelpKINode Title="EnableVertexAttributes method" Url="html/067ae5f0-bef8-dc59-770f-44f0fb634e27.htm" />
@@ -92,7 +92,7 @@
     <HelpKINode Title="properties" Url="html/b0ce22aa-93e6-518d-7b5d-16e6fda6688f.htm" />
   </HelpKINode>
   <HelpKINode Title="Framebuffer.Bind method" Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
-  <HelpKINode Title="Framebuffer.ColorAttachment0Tex property" Url="html/dd91497e-594f-90e5-6044-8f0d1a9ad869.htm" />
+  <HelpKINode Title="Framebuffer.ColorAttachments property" Url="html/7ad7e700-57e6-2816-9ae6-c1477dec3c51.htm" />
   <HelpKINode Title="Framebuffer.Finalize method" Url="html/991cdeb3-0a86-f44a-9d3b-42bda60996cf.htm" />
   <HelpKINode Title="Framebuffer.Framebuffer constructor" Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm" />
   <HelpKINode Title="Framebuffer.FramebufferTarget property" Url="html/8e3f4fc3-068b-04f8-29aa-532656a4ed05.htm" />
@@ -159,6 +159,7 @@
   <HelpKINode Title="SetFloat method" Url="html/1d10a1f7-c36c-73a0-277a-2983feefe1ee.htm" />
   <HelpKINode Title="SetInt method" Url="html/55394978-c437-f110-9c63-ac6b5a076322.htm" />
   <HelpKINode Title="SetMatrix4x4 method" Url="html/32e64187-a5a0-fe0c-22f5-312989916caf.htm" />
+  <HelpKINode Title="SetTexture method" Url="html/0f092262-3c70-1aab-ecd3-9056e95328d7.htm" />
   <HelpKINode Title="SetUint method" Url="html/3d88044e-37b9-7936-eae1-6cb88ae926c1.htm" />
   <HelpKINode Title="SetVector2 method" Url="html/f880525a-5438-f5e4-a0a6-19229c367452.htm" />
   <HelpKINode Title="SetVector3 method" Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm" />
@@ -184,6 +185,8 @@
     <HelpKINode Title="methods" Url="html/9f763234-5311-6efc-fa7b-9952779051dc.htm" />
     <HelpKINode Title="properties" Url="html/7a83572d-4392-39c8-f468-798ab2546e22.htm" />
   </HelpKINode>
+  <HelpKINode Title="Shader.AttachShader method" Url="html/c6e41b28-3d01-d9e3-7a01-474ce41d8488.htm" />
+  <HelpKINode Title="Shader.CreateGlShader method" Url="html/b931a024-2058-0a87-d37a-85e034ad7528.htm" />
   <HelpKINode Title="Shader.DisableVertexAttributes method" Url="html/6ab252c7-81a2-bbc2-fcde-9d8477e87870.htm" />
   <HelpKINode Title="Shader.EnableVertexAttributes method" Url="html/067ae5f0-bef8-dc59-770f-44f0fb634e27.htm" />
   <HelpKINode Title="Shader.Finalize method" Url="html/4d42f0f2-056d-32c0-7243-a7dcc2ae687e.htm" />
@@ -196,6 +199,7 @@
   <HelpKINode Title="Shader.SetFloat method" Url="html/1d10a1f7-c36c-73a0-277a-2983feefe1ee.htm" />
   <HelpKINode Title="Shader.SetInt method" Url="html/55394978-c437-f110-9c63-ac6b5a076322.htm" />
   <HelpKINode Title="Shader.SetMatrix4x4 method" Url="html/32e64187-a5a0-fe0c-22f5-312989916caf.htm" />
+  <HelpKINode Title="Shader.SetTexture method" Url="html/0f092262-3c70-1aab-ecd3-9056e95328d7.htm" />
   <HelpKINode Title="Shader.SetUint method" Url="html/3d88044e-37b9-7936-eae1-6cb88ae926c1.htm" />
   <HelpKINode Title="Shader.SetVector2 method" Url="html/f880525a-5438-f5e4-a0a6-19229c367452.htm" />
   <HelpKINode Title="Shader.SetVector3 method" Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm" />

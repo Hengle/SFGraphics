@@ -5,12 +5,14 @@
             A triangle facing the camera will have a positive normal when 
             the verts are ordered counter-clockwise.
             </div></td></tr><tr data="public;static;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /><img src="../icons/static.gif" alt="Static member" title="Static member" /></td><td><a href="d5d22f10-ca51-8d61-9028-88c57a7f7688.htm">GenerateTangentBitangent</a></td><td><div class="summary">
-            Generates a tangent vector <span class="parameter">s</span> and a bitangent vector
-            <span class="parameter">t</span> for a triangle face. 
-            <p><p /><span class="parameter">s</span> and <span class="parameter">t</span> should be added to the existing tangent
+            Generates a tangent vector <span class="parameter">tangent</span> and a bitangent vector
+            <span class="parameter">bitangent</span> for a triangle face. 
+            If the three vertices have the same UVs or position, <span class="parameter">tangent</span> is set to (1, 0, 0)
+            and <span class="parameter">bitangent</span> is set to (0, 1, 0). This prevents black shading artifacts.
+            <p /><p /><span class="parameter">tangent</span> and <span class="parameter">bitangent</span> should be added to the existing tangent
             and bitangent value for each vertex in the triangle. Normalizing the final sum 
             averages the tangents and bitangents for smoother results.
-            </p></div></td></tr><tr data="public;static;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /><img src="../icons/static.gif" alt="Static member" title="Static member" /></td><td><a href="7251ab57-1488-a515-b6de-2ddc88c41162.htm">GetDegrees</a></td><td><div class="summary">
+            </div></td></tr><tr data="public;static;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /><img src="../icons/static.gif" alt="Static member" title="Static member" /></td><td><a href="7251ab57-1488-a515-b6de-2ddc88c41162.htm">GetDegrees</a></td><td><div class="summary">
             Converts <span class="parameter">radians</span> to degrees.
             </div></td></tr><tr data="public;static;declared;notNetfw;"><td><img src="../icons/pubmethod.gif" alt="Public method" title="Public method" /><img src="../icons/static.gif" alt="Static member" title="Static member" /></td><td><a href="64294074-1404-12ef-72be-7d724786b8d3.htm">GetRadians</a></td><td><div class="summary">
             Converts <span class="parameter">degrees</span> to radians.
