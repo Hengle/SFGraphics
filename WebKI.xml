@@ -6,6 +6,11 @@
     <HelpKINode Title="Framebuffer.Bind Method " Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
     <HelpKINode Title="Texture.Bind Method " Url="html/b87ff682-82c0-9689-8ca9-54b932a3cc74.htm" />
   </HelpKINode>
+  <HelpKINode Title="BoundingSphereGenerator class">
+    <HelpKINode Title="BoundingSphereGenerator Class" Url="html/f91713df-02e8-63a5-1724-8cf13a2f7744.htm" />
+    <HelpKINode Title="methods" Url="html/fda920e0-9a3e-3eb5-086f-6b35338b8046.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BoundingSphereGenerator.GenerateBoundingSphere method" Url="html/b4514d19-7116-2626-5ed7-0b4adf880212.htm" />
   <HelpKINode Title="BufferObject class">
     <HelpKINode Title="BufferObject Class" Url="html/36d87545-2ab6-9669-58c0-e34229551ff3.htm" />
     <HelpKINode Title="constructor" Url="html/89df941d-0ffb-8ef8-24b4-050615608c51.htm" />
@@ -18,6 +23,7 @@
   <HelpKINode Title="BufferObject.Finalize method" Url="html/20b9f83a-ba12-60ec-dbd5-74b5b0413b4c.htm" />
   <HelpKINode Title="BufferObject.Id property" Url="html/dd8e248a-a0b1-8c20-0eca-939db6eb120e.htm" />
   <HelpKINode Title="BufferTarget property" Url="html/a8950073-749b-76e7-64e5-705c5d927cca.htm" />
+  <HelpKINode Title="CalculateImageSize method" Url="html/eb19a1a7-1e3c-9584-6d29-46b988fb6bef.htm" />
   <HelpKINode Title="CalculateNormal method" Url="html/b89dabfd-6988-24c8-c1d7-256c30d78271.htm" />
   <HelpKINode Title="Camera class">
     <HelpKINode Title="Camera Class" Url="html/55763658-fa95-89b3-dd63-d435d83a2965.htm" />
@@ -30,7 +36,7 @@
   <HelpKINode Title="Camera.FarClipPlane property" Url="html/7c51499c-c4db-a8ca-1586-008f23352da5.htm" />
   <HelpKINode Title="Camera.FovDegrees property" Url="html/aa39781b-8fe5-2fc2-60ad-6b1885f629b4.htm" />
   <HelpKINode Title="Camera.FovRadians property" Url="html/57966e17-1097-e529-f87a-7fa7c098f7e1.htm" />
-  <HelpKINode Title="Camera.FrameBoundingSphere method" Url="html/da827802-2636-fa2d-9326-6e8fbb1d9ea5.htm" />
+  <HelpKINode Title="Camera.FrameBoundingSphere method" Url="html/6b358afb-bb5a-0c31-8459-3b54a23bd304.htm" />
   <HelpKINode Title="Camera.modelViewMatrix field" Url="html/20dc7c4d-6acb-bae4-efed-8b52fc45d1c2.htm" />
   <HelpKINode Title="Camera.ModelViewMatrix property" Url="html/054848ed-f7ef-eedf-3444-9f9c2ae75779.htm" />
   <HelpKINode Title="Camera.mvpMatrix field" Url="html/16132a0f-aed5-d078-12b2-213813d4bb09.htm" />
@@ -70,6 +76,11 @@
   <HelpKINode Title="ColorTools.InvertColor method" Url="html/81d1bd3f-c1f9-8f89-5e5f-c777c1010244.htm" />
   <HelpKINode Title="ColorTools.RgbToHsv method" Url="html/663eaa55-9ed2-7a2f-e9fd-5ed8c9aa1e6c.htm" />
   <HelpKINode Title="ColorTools.Vector4FromColor method" Url="html/fdfa7760-09e0-87a2-5178-b1a90736760e.htm" />
+  <HelpKINode Title="CompressedImageSize class">
+    <HelpKINode Title="CompressedImageSize Class" Url="html/91b9121d-a109-c5a0-2138-72b49af1535d.htm" />
+    <HelpKINode Title="methods" Url="html/43c65dde-2c7b-a4e0-b1e8-4429d4e09b5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CompressedImageSize.CalculateImageSize method" Url="html/eb19a1a7-1e3c-9584-6d29-46b988fb6bef.htm" />
   <HelpKINode Title="CreateGlShader method" Url="html/b931a024-2058-0a87-d37a-85e034ad7528.htm" />
   <HelpKINode Title="DeleteUnusedGLObjects method" Url="html/87fe2ac7-7363-1d8a-5498-1560753484b5.htm" />
   <HelpKINode Title="DepthTexture class">
@@ -94,7 +105,7 @@
   <HelpKINode Title="FloatToIntClamp method" Url="html/8796b275-824b-0602-8167-d2cd63570488.htm" />
   <HelpKINode Title="FovDegrees property" Url="html/aa39781b-8fe5-2fc2-60ad-6b1885f629b4.htm" />
   <HelpKINode Title="FovRadians property" Url="html/57966e17-1097-e529-f87a-7fa7c098f7e1.htm" />
-  <HelpKINode Title="FrameBoundingSphere method" Url="html/da827802-2636-fa2d-9326-6e8fbb1d9ea5.htm" />
+  <HelpKINode Title="FrameBoundingSphere method" Url="html/6b358afb-bb5a-0c31-8459-3b54a23bd304.htm" />
   <HelpKINode Title="Framebuffer class">
     <HelpKINode Title="Framebuffer Class" Url="html/593236b6-fb7b-90de-e7dd-23447b83eec0.htm" />
     <HelpKINode Title="constructor" Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm" />
@@ -114,6 +125,7 @@
   <HelpKINode Title="Framebuffer.SamplePixelColor method" Url="html/56fd8d43-fde3-0dd8-9ee6-9c00e3194ac3.htm" />
   <HelpKINode Title="Framebuffer.Width property" Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
   <HelpKINode Title="FramebufferTarget property" Url="html/8e3f4fc3-068b-04f8-29aa-532656a4ed05.htm" />
+  <HelpKINode Title="GenerateBoundingSphere method" Url="html/b4514d19-7116-2626-5ed7-0b4adf880212.htm" />
   <HelpKINode Title="GenerateTangentBitangent method" Url="html/d5d22f10-ca51-8d61-9028-88c57a7f7688.htm" />
   <HelpKINode Title="GetDegrees method" Url="html/7251ab57-1488-a515-b6de-2ddc88c41162.htm" />
   <HelpKINode Title="GetErrorLog method" Url="html/3187e021-7ac7-903e-6f38-9a740fae08aa.htm" />
@@ -193,11 +205,13 @@
   <HelpKINode Title="SFGraphics.GLObjects.Shaders namespace" Url="html/e67cb253-66c7-f317-f0a8-771f13f5400b.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Shaders.Shader class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures namespace" Url="html/8731cd26-8abe-c112-041e-e1ec2ff957cc.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Textures.CompressedImageSize class" Url="html/91b9121d-a109-c5a0-2138-72b49af1535d.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.DepthTexture class" Url="html/2a7e1fcb-e577-a16e-3db6-a25702ed10ae.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.Texture class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.Texture2D class" Url="html/07a44df6-ea50-7391-fec0-a5d5956700c2.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureCubeMap class" Url="html/3bd6f636-8f6e-5492-92e5-d22a62d05d80.htm" />
   <HelpKINode Title="SFGraphics.Tools namespace" Url="html/817ea4c3-ee09-529f-e1cd-88986c72cab7.htm" />
+  <HelpKINode Title="SFGraphics.Tools.BoundingSphereGenerator class" Url="html/f91713df-02e8-63a5-1724-8cf13a2f7744.htm" />
   <HelpKINode Title="SFGraphics.Tools.ColorTools class" Url="html/afcb5dc2-21c1-f018-86f5-ffd6976daf22.htm" />
   <HelpKINode Title="SFGraphics.Tools.OpenTKExtensionTools class" Url="html/cd7bbb8b-ac3d-b024-3095-076009231bf7.htm" />
   <HelpKINode Title="SFGraphics.Tools.VectorTools class" Url="html/c2639d24-9c76-ebe2-838f-65acd217af8d.htm" />
