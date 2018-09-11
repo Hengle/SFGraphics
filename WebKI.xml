@@ -17,24 +17,24 @@
     <HelpKINode Title="methods" Url="html/54264d56-701f-8438-ce27-25726eb3d08d.htm" />
   </HelpKINode>
   <HelpKINode Title="alphaTestSettings field" Url="html/a6c5844a-5cd7-78ae-769f-6cbbdcaf45df.htm" />
-  <HelpKINode Title="AttachDepthTexture method" Url="html/5b354d9f-3e09-db01-d3bd-6be85558efe3.htm" />
-  <HelpKINode Title="AttachRenderbuffer method" Url="html/117651fc-e1c7-ede7-37fe-dabb2077653b.htm" />
+  <HelpKINode Title="AttachDepthTexture method" Url="html/1fef1e3f-7e11-6af9-93c4-fafb0a839467.htm" />
+  <HelpKINode Title="AttachRenderbuffer method" Url="html/8a15789c-a11c-2532-9b75-440bb8f7074f.htm" />
   <HelpKINode Title="AttachShader method" Url="html/4b34a788-db40-2202-98f5-acb6fbdd7719.htm" />
-  <HelpKINode Title="AttachTexture method" Url="html/81bb0208-5a68-3a3c-787e-641da796df64.htm" />
+  <HelpKINode Title="AttachTexture method" Url="html/0d2c7e66-588b-f3ef-761b-006b6de0781f.htm" />
   <HelpKINode Title="AttribPointerUtils class">
     <HelpKINode Title="AttribPointerUtils Class" Url="html/863ed244-6bf3-514c-ec65-5e2108f5e50a.htm" />
     <HelpKINode Title="fields" Url="html/83f5f8bd-20d4-2dca-44dd-b6d0c5d152c2.htm" />
   </HelpKINode>
   <HelpKINode Title="AttribPointerUtils.sizeInBytesByType field" Url="html/cbf322c2-8895-662e-807f-211fdb74c5dd.htm" />
   <HelpKINode Title="Bind method">
-    <HelpKINode Title="BufferObject.Bind Method " Url="html/760811da-001d-1db7-940a-4cd8d6a37a82.htm" />
-    <HelpKINode Title="Framebuffer.Bind Method " Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
-    <HelpKINode Title="Renderbuffer.Bind Method " Url="html/f198ee36-b50e-f9b5-0b97-629a92157d83.htm" />
+    <HelpKINode Title="BufferObject.Bind Method " Url="html/4b5c974c-41a5-c282-f33e-327eb2013593.htm" />
+    <HelpKINode Title="Framebuffer.Bind Method " Url="html/278e3dd9-77d4-626d-ab75-c963ea497568.htm" />
+    <HelpKINode Title="Renderbuffer.Bind Method " Url="html/bd8f8c42-3dda-9c3d-47ff-7ffbd6ec26e6.htm" />
     <HelpKINode Title="SamplerObject.Bind Method " Url="html/82140e5d-a888-b96d-0275-9caf02bdc480.htm" />
     <HelpKINode Title="Texture.Bind Method " Url="html/b87ff682-82c0-9689-8ca9-54b932a3cc74.htm" />
-    <HelpKINode Title="VertexArrayObject.Bind Method " Url="html/f1731aec-397b-7596-91f5-e12c9c82545c.htm" />
+    <HelpKINode Title="VertexArrayObject.Bind Method " Url="html/f4275fb3-e0ae-5e53-647c-7bba3168f7e3.htm" />
   </HelpKINode>
-  <HelpKINode Title="BindBase method" Url="html/9eb93de6-7ac3-8d9b-f9a2-b021a5d9aca2.htm" />
+  <HelpKINode Title="BindBase method" Url="html/1abe3492-c24d-315e-9aa3-cd7c0874ff71.htm" />
   <HelpKINode Title="blendingEquationAlpha field" Url="html/6bfa4876-d6e8-793b-be9d-f9caf357b787.htm" />
   <HelpKINode Title="blendingEquationRgb field" Url="html/e3d5ea96-f9bb-006d-639e-b68e3f01d62c.htm" />
   <HelpKINode Title="BoundingSphereGenerator class">
@@ -43,30 +43,30 @@
   </HelpKINode>
   <HelpKINode Title="BoundingSphereGenerator.GenerateBoundingSphere method" Url="html/bb798cd1-a2ba-c74d-8bc6-547b28dd9dd2.htm" />
   <HelpKINode Title="BufferObject class">
-    <HelpKINode Title="BufferObject Class" Url="html/36d87545-2ab6-9669-58c0-e34229551ff3.htm" />
-    <HelpKINode Title="constructor" Url="html/89df941d-0ffb-8ef8-24b4-050615608c51.htm" />
-    <HelpKINode Title="fields" Url="html/5f4489eb-23d1-ab06-d291-b2f6908a19ec.htm" />
-    <HelpKINode Title="methods" Url="html/54df5996-a397-372d-7638-1559a9a8abe8.htm" />
-    <HelpKINode Title="properties" Url="html/02dd432b-e141-f113-d7f9-f4f5b43d58cc.htm" />
+    <HelpKINode Title="BufferObject Class" Url="html/ad2057ce-3196-4d8e-2fab-72fbce134093.htm" />
+    <HelpKINode Title="constructor" Url="html/19917e30-c502-b7dd-6fac-711434ea15ff.htm" />
+    <HelpKINode Title="fields" Url="html/0cd2a6be-ac83-90ee-f7d9-669b6c329b4b.htm" />
+    <HelpKINode Title="methods" Url="html/eaccf5bc-00d0-dea0-a524-71d6905f988d.htm" />
+    <HelpKINode Title="properties" Url="html/220e72f0-4d3b-2f25-943d-f9fb18e16e6d.htm" />
   </HelpKINode>
   <HelpKINode Title="BufferObject enumeration member" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
-  <HelpKINode Title="BufferObject.Bind method" Url="html/760811da-001d-1db7-940a-4cd8d6a37a82.htm" />
-  <HelpKINode Title="BufferObject.BindBase method" Url="html/9eb93de6-7ac3-8d9b-f9a2-b021a5d9aca2.htm" />
-  <HelpKINode Title="BufferObject.BufferObject constructor" Url="html/89df941d-0ffb-8ef8-24b4-050615608c51.htm" />
-  <HelpKINode Title="BufferObject.GetData(Of T) method" Url="html/0bb57f60-795d-9126-e5db-72bfdeb8f5e2.htm" />
-  <HelpKINode Title="BufferObject.GetData&lt;T&gt; method" Url="html/0bb57f60-795d-9126-e5db-72bfdeb8f5e2.htm" />
-  <HelpKINode Title="BufferObject.GetSubData(Of T) method" Url="html/cbe9d5ef-b59a-ccb1-857d-a93ca1782465.htm" />
-  <HelpKINode Title="BufferObject.GetSubData&lt;T&gt; method" Url="html/cbe9d5ef-b59a-ccb1-857d-a93ca1782465.htm" />
-  <HelpKINode Title="BufferObject.MapBuffer method" Url="html/c050bf5f-a5e4-e380-f140-647d10d18628.htm" />
-  <HelpKINode Title="BufferObject.ObjectType property" Url="html/5f9ca290-8c15-c536-a23d-3326e20d172d.htm" />
-  <HelpKINode Title="BufferObject.SetData(Of T) method" Url="html/9b82d600-fd76-7bbe-ce5f-2a76bfcff5da.htm" />
-  <HelpKINode Title="BufferObject.SetData&lt;T&gt; method" Url="html/9b82d600-fd76-7bbe-ce5f-2a76bfcff5da.htm" />
-  <HelpKINode Title="BufferObject.SetSubData(Of T) method" Url="html/c201cede-c4cd-4344-4d59-7fcf04afd246.htm" />
-  <HelpKINode Title="BufferObject.SetSubData&lt;T&gt; method" Url="html/c201cede-c4cd-4344-4d59-7fcf04afd246.htm" />
-  <HelpKINode Title="BufferObject.Target property" Url="html/e507dc7a-0a3d-7c4c-6d3e-f20df3ba383a.htm" />
-  <HelpKINode Title="BufferObject.Unmap method" Url="html/94bfb135-38ac-40ef-7083-272e811ca8fe.htm" />
+  <HelpKINode Title="BufferObject.Bind method" Url="html/4b5c974c-41a5-c282-f33e-327eb2013593.htm" />
+  <HelpKINode Title="BufferObject.BindBase method" Url="html/1abe3492-c24d-315e-9aa3-cd7c0874ff71.htm" />
+  <HelpKINode Title="BufferObject.BufferObject constructor" Url="html/19917e30-c502-b7dd-6fac-711434ea15ff.htm" />
+  <HelpKINode Title="BufferObject.GetData(Of T) method" Url="html/717fd817-eae4-02a3-af01-0223fa61b5c3.htm" />
+  <HelpKINode Title="BufferObject.GetData&lt;T&gt; method" Url="html/717fd817-eae4-02a3-af01-0223fa61b5c3.htm" />
+  <HelpKINode Title="BufferObject.GetSubData(Of T) method" Url="html/199dd427-1eec-651b-027e-326579545e39.htm" />
+  <HelpKINode Title="BufferObject.GetSubData&lt;T&gt; method" Url="html/199dd427-1eec-651b-027e-326579545e39.htm" />
+  <HelpKINode Title="BufferObject.MapBuffer method" Url="html/a8c94dc4-f843-ecbe-a69d-871efd4d4e70.htm" />
+  <HelpKINode Title="BufferObject.ObjectType property" Url="html/4c49049f-08a2-1f84-10ba-9629709406ae.htm" />
+  <HelpKINode Title="BufferObject.SetData(Of T) method" Url="html/f4f93dfc-e834-13c4-cdef-463b0aecf7d7.htm" />
+  <HelpKINode Title="BufferObject.SetData&lt;T&gt; method" Url="html/f4f93dfc-e834-13c4-cdef-463b0aecf7d7.htm" />
+  <HelpKINode Title="BufferObject.SetSubData(Of T) method" Url="html/f5a081c5-b7f9-e2d0-a694-7649599d67d8.htm" />
+  <HelpKINode Title="BufferObject.SetSubData&lt;T&gt; method" Url="html/f5a081c5-b7f9-e2d0-a694-7649599d67d8.htm" />
+  <HelpKINode Title="BufferObject.Target property" Url="html/b6b6a3b9-e55f-d987-f97d-9c0a3782ccf7.htm" />
+  <HelpKINode Title="BufferObject.Unmap method" Url="html/e522fa10-c807-84a7-f1a3-2a36b5f3f185.htm" />
   <HelpKINode Title="CalculateImageSize method" Url="html/120c3e74-6b87-e34b-6726-c87734d21411.htm" />
-  <HelpKINode Title="CalculateNormal method" Url="html/a787575e-2920-7871-f0c4-ee2a1f4a5701.htm" />
+  <HelpKINode Title="CalculateNormal method" Url="html/96e48f81-291d-8d9c-13f3-26881552368f.htm" />
   <HelpKINode Title="Camera class">
     <HelpKINode Title="Camera Class" Url="html/55763658-fa95-89b3-dd63-d435d83a2965.htm" />
     <HelpKINode Title="constructor" Url="html/d6a9ee60-176b-f104-e454-ae7d5dd78080.htm" />
@@ -102,22 +102,22 @@
   <HelpKINode Title="Camera.TranslationMatrix property" Url="html/6ca46b62-f4a3-7180-809c-ef0c9e76fab4.htm" />
   <HelpKINode Title="Camera.UpdateMatrices method" Url="html/b1fac833-274a-1618-95cf-eb72b8900ae0.htm" />
   <HelpKINode Title="Camera.Zoom method" Url="html/c9b0e124-f4c8-de42-939d-5e0c292ab3d8.htm" />
-  <HelpKINode Title="ClampFloat method" Url="html/b367ab9a-5376-15b6-f59b-9fd9bf35aae2.htm" />
-  <HelpKINode Title="ClampInt method" Url="html/7951d8c1-dc14-ff63-78ba-66c50bd95894.htm" />
-  <HelpKINode Title="ColorAttachments property" Url="html/7ad7e700-57e6-2816-9ae6-c1477dec3c51.htm" />
-  <HelpKINode Title="ColorTemp2RGB method" Url="html/cc99c1c0-f5d3-d4e0-b5a5-17421f00ae95.htm" />
-  <HelpKINode Title="ColorTools class">
-    <HelpKINode Title="ColorTools Class" Url="html/ebe614cb-eb2a-b7e0-d60e-d9eb26dc1f75.htm" />
-    <HelpKINode Title="methods" Url="html/7b2d815d-fbe7-03a0-77f6-5fc5837efb13.htm" />
+  <HelpKINode Title="ClampFloat method" Url="html/814f51f9-8ecc-ed54-563e-2c84478030fb.htm" />
+  <HelpKINode Title="ClampInt method" Url="html/af5ac63e-8fbf-03d5-4196-08f0bc70867f.htm" />
+  <HelpKINode Title="ColorAttachments property" Url="html/ca5f605a-9011-50e4-11c9-f4d674864619.htm" />
+  <HelpKINode Title="ColorTemp2RGB method" Url="html/6d214214-eaf2-4ac4-b8a9-4dda6641585f.htm" />
+  <HelpKINode Title="ColorUtils class">
+    <HelpKINode Title="ColorUtils Class" Url="html/b01ca1af-7cca-9859-6730-9ca0257a12df.htm" />
+    <HelpKINode Title="methods" Url="html/ca3ffb1d-4087-5d58-d7b7-0419dcaf2d70.htm" />
   </HelpKINode>
-  <HelpKINode Title="ColorTools.ClampFloat method" Url="html/b367ab9a-5376-15b6-f59b-9fd9bf35aae2.htm" />
-  <HelpKINode Title="ColorTools.ClampInt method" Url="html/7951d8c1-dc14-ff63-78ba-66c50bd95894.htm" />
-  <HelpKINode Title="ColorTools.ColorTemp2RGB method" Url="html/cc99c1c0-f5d3-d4e0-b5a5-17421f00ae95.htm" />
-  <HelpKINode Title="ColorTools.FloatToIntClamp method" Url="html/38f5599b-ac0d-667b-f996-ffbd6892bf9d.htm" />
-  <HelpKINode Title="ColorTools.HsvToRgb method" Url="html/c815e310-10da-b1c1-d742-a062f463864d.htm" />
-  <HelpKINode Title="ColorTools.InvertColor method" Url="html/bc1a0283-ee3d-c19c-855a-1c6cf2c6913f.htm" />
-  <HelpKINode Title="ColorTools.RgbToHsv method" Url="html/7286f93e-75b1-85ba-3952-8bbb0b4855b3.htm" />
-  <HelpKINode Title="ColorTools.Vector4FromColor method" Url="html/6bc7d059-9dba-76e2-348d-a6971b91b9dd.htm" />
+  <HelpKINode Title="ColorUtils.ClampFloat method" Url="html/814f51f9-8ecc-ed54-563e-2c84478030fb.htm" />
+  <HelpKINode Title="ColorUtils.ClampInt method" Url="html/af5ac63e-8fbf-03d5-4196-08f0bc70867f.htm" />
+  <HelpKINode Title="ColorUtils.ColorTemp2RGB method" Url="html/6d214214-eaf2-4ac4-b8a9-4dda6641585f.htm" />
+  <HelpKINode Title="ColorUtils.FloatToIntClamp method" Url="html/2272c2c6-6595-217a-7327-d3a18963b033.htm" />
+  <HelpKINode Title="ColorUtils.HsvToRgb method" Url="html/2c427f26-7c00-fdcf-c3bd-32abdb44985f.htm" />
+  <HelpKINode Title="ColorUtils.InvertColor method" Url="html/a516bb16-b004-8145-885f-f45c631d075d.htm" />
+  <HelpKINode Title="ColorUtils.RgbToHsv method" Url="html/c26f2165-fee3-c5f1-292b-a073168b3f45.htm" />
+  <HelpKINode Title="ColorUtils.Vector4FromColor method" Url="html/e36c3842-7392-6125-5a5f-c21243d76f8f.htm" />
   <HelpKINode Title="CreateGlShader method" Url="html/b931a024-2058-0a87-d37a-85e034ad7528.htm" />
   <HelpKINode Title="cullFaceMode field" Url="html/5ab54332-b31e-6b96-3ea2-3c2cad812194.htm" />
   <HelpKINode Title="DecrementReference(Of T) method" Url="html/7262dfe4-77d0-fcce-54f2-be4e0e29e113.htm" />
@@ -143,11 +143,20 @@
   <HelpKINode Title="destinationFactor field" Url="html/89e02b5e-4006-5a9a-8d0e-5bfddaf18c16.htm" />
   <HelpKINode Title="DisableVertexAttributes method" Url="html/6ab252c7-81a2-bbc2-fcde-9d8477e87870.htm" />
   <HelpKINode Title="Draw method" Url="html/578fc3b2-3f48-0097-3e32-50be777c533b.htm" />
-  <HelpKINode Title="enableAlphaBlending field" Url="html/627f08a1-65fd-49c2-bb28-946efb6a54fe.htm" />
-  <HelpKINode Title="enableAlphaTesting field" Url="html/0a1fb217-ad39-961c-7e49-c8c1f3f58232.htm" />
-  <HelpKINode Title="enableDepthTest field" Url="html/36ecf933-d700-9a1a-e6d3-2210e9656dd0.htm" />
-  <HelpKINode Title="enableFaceCulling field" Url="html/8cd67761-30e8-9501-eead-8892020825c5.htm" />
+  <HelpKINode Title="enabled field">
+    <HelpKINode Title="RenderSettings.AlphaBlendSettings.enabled Field" Url="html/cf530da4-cee6-8b56-5a3e-2ccb0ffed6a8.htm" />
+    <HelpKINode Title="RenderSettings.AlphaTestSettings.enabled Field" Url="html/56655418-207f-e73b-4f1a-4fd945adee6f.htm" />
+    <HelpKINode Title="RenderSettings.DepthTestSettings.enabled Field" Url="html/4fa7e4eb-dc6c-d79c-0f0b-65e8aa3cdf1d.htm" />
+    <HelpKINode Title="RenderSettings.FaceCullingSettings.enabled Field" Url="html/c2694b28-8292-c817-098e-dabc65e2aa73.htm" />
+  </HelpKINode>
   <HelpKINode Title="EnableVertexAttributes method" Url="html/067ae5f0-bef8-dc59-770f-44f0fb634e27.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="RenderSettings.AlphaBlendSettings.Equals Method " Url="html/8f12dbf2-983f-432a-bba6-95f9097d81d6.htm" />
+    <HelpKINode Title="RenderSettings.AlphaTestSettings.Equals Method " Url="html/f1d65150-8f5b-b860-356c-5b77950211c4.htm" />
+    <HelpKINode Title="RenderSettings.DepthTestSettings.Equals Method " Url="html/c930b5cf-16a5-52c7-5bf0-99a195f16d81.htm" />
+    <HelpKINode Title="RenderSettings.Equals Method " Url="html/5779af7b-c288-53ba-6050-15962ce0aaef.htm" />
+    <HelpKINode Title="RenderSettings.FaceCullingSettings.Equals Method " Url="html/2c91941d-78b0-88bb-832d-2fcfb8398b1a.htm" />
+  </HelpKINode>
   <HelpKINode Title="FaceCullingSettings class">
     <HelpKINode Title="fields" Url="html/a8e19bb6-6d5c-2153-d205-ad445d3480b5.htm" />
     <HelpKINode Title="methods" Url="html/4cb6bac9-388b-9418-046c-dafab9109750.htm" />
@@ -155,37 +164,37 @@
   <HelpKINode Title="faceCullingSettings field" Url="html/8c5f0f3a-b2ae-8360-214e-f3a493aef763.htm" />
   <HelpKINode Title="FarClipPlane property" Url="html/7c51499c-c4db-a8ca-1586-008f23352da5.htm" />
   <HelpKINode Title="Finalize method" Url="html/22b0c4f0-71be-8033-b700-4c02858d019f.htm" />
-  <HelpKINode Title="FloatToIntClamp method" Url="html/38f5599b-ac0d-667b-f996-ffbd6892bf9d.htm" />
+  <HelpKINode Title="FloatToIntClamp method" Url="html/2272c2c6-6595-217a-7327-d3a18963b033.htm" />
   <HelpKINode Title="Four enumeration member" Url="html/778382c1-b679-1ead-8f3d-82da9f36a212.htm" />
   <HelpKINode Title="FovDegrees property" Url="html/aa39781b-8fe5-2fc2-60ad-6b1885f629b4.htm" />
   <HelpKINode Title="FovRadians property" Url="html/57966e17-1097-e529-f87a-7fa7c098f7e1.htm" />
   <HelpKINode Title="FrameBoundingSphere method" Url="html/6b358afb-bb5a-0c31-8459-3b54a23bd304.htm" />
   <HelpKINode Title="Framebuffer class">
-    <HelpKINode Title="Framebuffer Class" Url="html/593236b6-fb7b-90de-e7dd-23447b83eec0.htm" />
-    <HelpKINode Title="constructor" Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm" />
-    <HelpKINode Title="fields" Url="html/d5a8f247-7ca6-e7c2-81be-3d8c3db42ba0.htm" />
-    <HelpKINode Title="methods" Url="html/3f7feb9d-d1f9-bb4f-9852-d2bf120051db.htm" />
-    <HelpKINode Title="properties" Url="html/b0ce22aa-93e6-518d-7b5d-16e6fda6688f.htm" />
+    <HelpKINode Title="Framebuffer Class" Url="html/6ec4df59-44ed-2aa4-36d3-536d9e18f445.htm" />
+    <HelpKINode Title="constructor" Url="html/c958c05c-50f8-efa8-5a2f-25050d4fe5f2.htm" />
+    <HelpKINode Title="fields" Url="html/1f9ce64e-456a-6836-4bc8-97d67fda6ec1.htm" />
+    <HelpKINode Title="methods" Url="html/941ae1e3-29b9-e38e-d8c7-0be042564946.htm" />
+    <HelpKINode Title="properties" Url="html/ed01d934-9ffd-0b0f-e5d1-1ac1a0f19177.htm" />
   </HelpKINode>
-  <HelpKINode Title="Framebuffer.AttachDepthTexture method" Url="html/5b354d9f-3e09-db01-d3bd-6be85558efe3.htm" />
-  <HelpKINode Title="Framebuffer.AttachRenderbuffer method" Url="html/117651fc-e1c7-ede7-37fe-dabb2077653b.htm" />
-  <HelpKINode Title="Framebuffer.AttachTexture method" Url="html/81bb0208-5a68-3a3c-787e-641da796df64.htm" />
-  <HelpKINode Title="Framebuffer.Bind method" Url="html/2ffb4e16-dbb2-4ad6-bd8a-eba25d2a584b.htm" />
-  <HelpKINode Title="Framebuffer.ColorAttachments property" Url="html/7ad7e700-57e6-2816-9ae6-c1477dec3c51.htm" />
-  <HelpKINode Title="Framebuffer.Framebuffer constructor" Url="html/181c54fe-83cf-25f9-7a6d-f8af3b5b04a4.htm" />
-  <HelpKINode Title="Framebuffer.GetStatus method" Url="html/77fd1e3c-80f4-c7f5-4451-5a7253a77d9c.htm" />
-  <HelpKINode Title="Framebuffer.Height property" Url="html/2f837a91-fe8e-2eb2-b695-ee12f8b53415.htm" />
-  <HelpKINode Title="Framebuffer.ObjectType property" Url="html/d4396754-9b2a-fbb4-6ebc-02961f2becf3.htm" />
-  <HelpKINode Title="Framebuffer.PixelInternalFormat property" Url="html/3e282ee9-19be-a4ba-10d1-024165988adf.htm" />
-  <HelpKINode Title="Framebuffer.ReadImagePixels method" Url="html/96c59787-5e8f-f458-054a-647133fc41d0.htm" />
-  <HelpKINode Title="Framebuffer.SamplePixelColor method" Url="html/56fd8d43-fde3-0dd8-9ee6-9c00e3194ac3.htm" />
-  <HelpKINode Title="Framebuffer.SetDrawBuffers method" Url="html/678bf3bb-8795-685b-5f59-53006338158a.htm" />
-  <HelpKINode Title="Framebuffer.SetReadBuffer method" Url="html/e98b077d-e0b1-b94a-fc0e-6f05d1d6f718.htm" />
-  <HelpKINode Title="Framebuffer.Target property" Url="html/63d88d74-6e54-159f-a314-072012f1042d.htm" />
-  <HelpKINode Title="Framebuffer.Width property" Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
+  <HelpKINode Title="Framebuffer.AttachDepthTexture method" Url="html/1fef1e3f-7e11-6af9-93c4-fafb0a839467.htm" />
+  <HelpKINode Title="Framebuffer.AttachRenderbuffer method" Url="html/8a15789c-a11c-2532-9b75-440bb8f7074f.htm" />
+  <HelpKINode Title="Framebuffer.AttachTexture method" Url="html/0d2c7e66-588b-f3ef-761b-006b6de0781f.htm" />
+  <HelpKINode Title="Framebuffer.Bind method" Url="html/278e3dd9-77d4-626d-ab75-c963ea497568.htm" />
+  <HelpKINode Title="Framebuffer.ColorAttachments property" Url="html/ca5f605a-9011-50e4-11c9-f4d674864619.htm" />
+  <HelpKINode Title="Framebuffer.Framebuffer constructor" Url="html/c958c05c-50f8-efa8-5a2f-25050d4fe5f2.htm" />
+  <HelpKINode Title="Framebuffer.GetStatus method" Url="html/7d9878d5-c760-fad7-90a4-1e171bac7610.htm" />
+  <HelpKINode Title="Framebuffer.Height property" Url="html/9aa43481-d6de-c68a-5e6b-1d7c1fb572d9.htm" />
+  <HelpKINode Title="Framebuffer.ObjectType property" Url="html/67b45a2c-7b64-6de9-8aa4-bc829df2c78b.htm" />
+  <HelpKINode Title="Framebuffer.PixelInternalFormat property" Url="html/87755339-abcf-0f4c-2f08-08adb248668d.htm" />
+  <HelpKINode Title="Framebuffer.ReadImagePixels method" Url="html/4b747fff-bad1-15a8-cc5b-2c94a93f7e5e.htm" />
+  <HelpKINode Title="Framebuffer.SamplePixelColor method" Url="html/e4a35f9a-bd70-6548-2460-67366f83ef58.htm" />
+  <HelpKINode Title="Framebuffer.SetDrawBuffers method" Url="html/ce252037-45be-fb76-9537-5fc85e6c8bac.htm" />
+  <HelpKINode Title="Framebuffer.SetReadBuffer method" Url="html/9967129b-d3a6-3dac-5304-85c363948201.htm" />
+  <HelpKINode Title="Framebuffer.Target property" Url="html/10e01ea9-061f-0a96-0210-bfb50f5baac4.htm" />
+  <HelpKINode Title="Framebuffer.Width property" Url="html/98c371e8-21e0-5743-b3ca-355c8ace493e.htm" />
   <HelpKINode Title="FramebufferObject enumeration member" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
   <HelpKINode Title="GenerateBoundingSphere method" Url="html/bb798cd1-a2ba-c74d-8bc6-547b28dd9dd2.htm" />
-  <HelpKINode Title="GenerateTangentBitangent method" Url="html/dc0dc333-3265-7c3f-ccc7-a6104f27c2ca.htm" />
+  <HelpKINode Title="GenerateTangentBitangent method" Url="html/151033ce-e6ce-720b-3037-700395754603.htm" />
   <HelpKINode Title="GenericMaterial class">
     <HelpKINode Title="GenericMaterial Class" Url="html/f20dc433-2cf1-a86d-4939-f0a51034ba6f.htm" />
     <HelpKINode Title="constructor" Url="html/a66809f9-6340-224d-b4dc-c7b5229922b4.htm" />
@@ -228,17 +237,23 @@
   <HelpKINode Title="GenericMesh&lt;T&gt;.renderSettings field" Url="html/2a8f350d-c2b3-3c59-b53e-1634beb1a376.htm" />
   <HelpKINode Title="GenericMesh&lt;T&gt;.SetCameraUniforms method" Url="html/a77c82a5-aad9-0ff6-0e92-4554eb0d396b.htm" />
   <HelpKINode Title="GetAttribLocation method" Url="html/97313f37-8673-2abc-d940-bdcef9b20b7c.htm" />
-  <HelpKINode Title="GetData(Of T) method" Url="html/0bb57f60-795d-9126-e5db-72bfdeb8f5e2.htm" />
-  <HelpKINode Title="GetData&lt;T&gt; method" Url="html/0bb57f60-795d-9126-e5db-72bfdeb8f5e2.htm" />
-  <HelpKINode Title="GetDegrees method" Url="html/ddc40ab9-4ad7-a6c5-e9f6-902783e76fff.htm" />
+  <HelpKINode Title="GetData(Of T) method" Url="html/717fd817-eae4-02a3-af01-0223fa61b5c3.htm" />
+  <HelpKINode Title="GetData&lt;T&gt; method" Url="html/717fd817-eae4-02a3-af01-0223fa61b5c3.htm" />
+  <HelpKINode Title="GetDegrees method" Url="html/97c19445-1d73-962c-45ad-69bf5a04cdf3.htm" />
   <HelpKINode Title="GetErrorLog method" Url="html/3187e021-7ac7-903e-6f38-9a740fae08aa.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="RenderSettings.AlphaBlendSettings.GetHashCode Method " Url="html/f1cf145b-8ad7-88b7-8592-5614eb08d07f.htm" />
+    <HelpKINode Title="RenderSettings.AlphaTestSettings.GetHashCode Method " Url="html/b93dc012-0bd8-e498-2338-bf1d7ec98f32.htm" />
+    <HelpKINode Title="RenderSettings.DepthTestSettings.GetHashCode Method " Url="html/2f14c203-b460-7b87-14b3-99c1d0e1e5ef.htm" />
+    <HelpKINode Title="RenderSettings.FaceCullingSettings.GetHashCode Method " Url="html/929447d9-5352-a62e-b957-7759af999fe1.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetObjectsWithNoReferences(Of T) method" Url="html/a43cbbb8-2f56-e2e3-e5c9-f621d5dc52d7.htm" />
   <HelpKINode Title="GetObjectsWithNoReferences&lt;T&gt; method" Url="html/a43cbbb8-2f56-e2e3-e5c9-f621d5dc52d7.htm" />
   <HelpKINode Title="GetProgramBinary method" Url="html/afb90f3f-7080-298b-dad6-c3f2b42b4df4.htm" />
-  <HelpKINode Title="GetRadians method" Url="html/b724c13f-7d12-c028-98ed-6111ed8bbc48.htm" />
-  <HelpKINode Title="GetStatus method" Url="html/77fd1e3c-80f4-c7f5-4451-5a7253a77d9c.htm" />
-  <HelpKINode Title="GetSubData(Of T) method" Url="html/cbe9d5ef-b59a-ccb1-857d-a93ca1782465.htm" />
-  <HelpKINode Title="GetSubData&lt;T&gt; method" Url="html/cbe9d5ef-b59a-ccb1-857d-a93ca1782465.htm" />
+  <HelpKINode Title="GetRadians method" Url="html/5a0fa6e0-e788-f29d-f3b6-68a809a99d44.htm" />
+  <HelpKINode Title="GetStatus method" Url="html/7d9878d5-c760-fad7-90a4-1e171bac7610.htm" />
+  <HelpKINode Title="GetSubData(Of T) method" Url="html/199dd427-1eec-651b-027e-326579545e39.htm" />
+  <HelpKINode Title="GetSubData&lt;T&gt; method" Url="html/199dd427-1eec-651b-027e-326579545e39.htm" />
   <HelpKINode Title="GetUniformLocation method" Url="html/54fbce00-df0f-f1b3-b25b-51cb974eaa1d.htm" />
   <HelpKINode Title="GetVertexAttributes method" Url="html/1fc8476b-d2cd-5678-3296-78051c6601f7.htm" />
   <HelpKINode Title="GLObject class">
@@ -259,98 +274,109 @@
     <HelpKINode Title="methods" Url="html/c6d427e0-281a-0b44-3240-e92b75f10ee5.htm" />
   </HelpKINode>
   <HelpKINode Title="GLObjectManager.DeleteUnusedGLObjects method" Url="html/9f116798-780d-2e49-f519-aecb11b34586.htm" />
+  <HelpKINode Title="GroupContainersByPrimitiveType(Of T) method" Url="html/8da95180-f839-4a8e-92f5-5840dc80c22e.htm" />
+  <HelpKINode Title="GroupContainersByPrimitiveType&lt;T&gt; method" Url="html/8da95180-f839-4a8e-92f5-5840dc80c22e.htm" />
   <HelpKINode Title="Height property">
     <HelpKINode Title="DepthTexture.Height Property " Url="html/ca077de4-7fa4-5a10-50dc-94b2077118c5.htm" />
-    <HelpKINode Title="Framebuffer.Height Property " Url="html/2f837a91-fe8e-2eb2-b695-ee12f8b53415.htm" />
-    <HelpKINode Title="Renderbuffer.Height Property " Url="html/524c9637-6dbb-dcbf-4c3a-65559fd7bfa9.htm" />
+    <HelpKINode Title="Framebuffer.Height Property " Url="html/9aa43481-d6de-c68a-5e6b-1d7c1fb572d9.htm" />
+    <HelpKINode Title="Renderbuffer.Height Property " Url="html/dc616ba2-adc2-bd0a-c9d7-3e4c3460ce33.htm" />
     <HelpKINode Title="Texture2D.Height Property " Url="html/2999bc8c-5db2-7807-c14f-eca69f3dc044.htm" />
   </HelpKINode>
-  <HelpKINode Title="HsvToRgb method" Url="html/c815e310-10da-b1c1-d742-a062f463864d.htm" />
+  <HelpKINode Title="HsvToRgb method" Url="html/2c427f26-7c00-fdcf-c3bd-32abdb44985f.htm" />
   <HelpKINode Title="Id field" Url="html/792d5549-ea1b-f872-6fee-60693725d4d3.htm" />
   <HelpKINode Title="IncrementReference(Of T) method" Url="html/0bd6d2b6-a05c-909a-0f98-070c4fdd8951.htm" />
   <HelpKINode Title="IncrementReference&lt;T&gt; method" Url="html/0bd6d2b6-a05c-909a-0f98-070c4fdd8951.htm" />
   <HelpKINode Title="InitializeCurrentExtensions method" Url="html/30cdf4d8-38cf-9490-01ea-7f8bd619759e.htm" />
-  <HelpKINode Title="InvertColor method" Url="html/bc1a0283-ee3d-c19c-855a-1c6cf2c6913f.htm" />
+  <HelpKINode Title="InvertColor method" Url="html/a516bb16-b004-8145-885f-f45c631d075d.htm" />
   <HelpKINode Title="IsAvailable method" Url="html/fa6c2518-c59c-b0e8-d23f-4728d94d4a5f.htm" />
   <HelpKINode Title="IsCompressed method" Url="html/ac0adb5e-187d-3964-0391-33848f77932f.htm" />
   <HelpKINode Title="IsCubeMapTarget method" Url="html/cec06a1d-ba0a-82de-6341-cec9ef5f98cc.htm" />
   <HelpKINode Title="IsDepthFormat method" Url="html/06773073-291b-cc33-1c03-6dc968ff4318.htm" />
   <HelpKINode Title="IsGenericCompressed method" Url="html/dc8e605d-5a47-df69-6383-1937f3872d28.htm" />
   <HelpKINode Title="IsGenericCompressedFormat method" Url="html/4b43be05-aebe-ec7f-4f76-57311dd3dc4c.htm" />
-  <HelpKINode Title="LoadBaseLevelGenerateMipmaps method" Url="html/78dbecd6-550d-0ef6-d6fd-57d02aae7589.htm" />
-  <HelpKINode Title="LoadCompressedMipmaps method" Url="html/9320106a-3df0-fc7b-ee98-79517b556ab3.htm" />
-  <HelpKINode Title="LoadCompressedMipMaps(Of T) method" Url="html/d5a1cf38-71b5-7b30-d9d9-b27d00b280ba.htm" />
-  <HelpKINode Title="LoadCompressedMipMaps&lt;T&gt; method" Url="html/d5a1cf38-71b5-7b30-d9d9-b27d00b280ba.htm" />
-  <HelpKINode Title="LoadFacesBaseLevel(Of T) method" Url="html/acbe001c-7085-be22-605f-96f3732fe245.htm" />
-  <HelpKINode Title="LoadFacesBaseLevel&lt;T&gt; method" Url="html/acbe001c-7085-be22-605f-96f3732fe245.htm" />
-  <HelpKINode Title="LoadFacesMipmaps(Of T) method" Url="html/b4bc41e2-2029-c597-856d-0e7868afca26.htm" />
-  <HelpKINode Title="LoadFacesMipmaps&lt;T&gt; method" Url="html/b4bc41e2-2029-c597-856d-0e7868afca26.htm" />
+  <HelpKINode Title="LinkStatusIsOk property" Url="html/912238c1-18f3-f660-1549-184f086e381c.htm" />
+  <HelpKINode Title="LoadBaseLevelGenerateMipmaps method" Url="html/dddd6af8-9a8c-cabf-3579-b51503da1668.htm" />
+  <HelpKINode Title="LoadCompressedMipmaps method" Url="html/da3fa37a-f4da-fee3-8432-f80f2ee5ff58.htm" />
+  <HelpKINode Title="LoadCompressedMipMaps(Of T) method" Url="html/d915daa9-1452-12a3-4718-cbdbfc5d3b60.htm" />
+  <HelpKINode Title="LoadCompressedMipMaps&lt;T&gt; method" Url="html/d915daa9-1452-12a3-4718-cbdbfc5d3b60.htm" />
+  <HelpKINode Title="LoadFacesBaseLevel(Of T) method" Url="html/2d9f3926-5797-c369-e87f-593fe81a0b71.htm" />
+  <HelpKINode Title="LoadFacesBaseLevel&lt;T&gt; method" Url="html/2d9f3926-5797-c369-e87f-593fe81a0b71.htm" />
+  <HelpKINode Title="LoadFacesMipmaps(Of T) method" Url="html/95498ab5-e885-02ec-3939-61f389cb9f71.htm" />
+  <HelpKINode Title="LoadFacesMipmaps&lt;T&gt; method" Url="html/95498ab5-e885-02ec-3939-61f389cb9f71.htm" />
   <HelpKINode Title="LoadImageData method">
     <HelpKINode Title="Texture2D.LoadImageData Method " Url="html/d18d851c-be6c-691c-29b7-c4df444836f1.htm" />
     <HelpKINode Title="TextureCubeMap.LoadImageData Method " Url="html/f67238cc-ab5b-69dc-519d-7a94a1dc0f70.htm" />
   </HelpKINode>
   <HelpKINode Title="LoadProgramBinary method" Url="html/b2d9e3cd-640b-dd86-1a09-533079cb788e.htm" />
   <HelpKINode Title="LoadShader method" Url="html/5f0eede5-1368-6f23-74f1-1565fe34c533.htm" />
-  <HelpKINode Title="LoadUncompressedMipmaps method" Url="html/012b6054-f1a0-c07d-ad10-550b417e4575.htm" />
+  <HelpKINode Title="LoadUncompressedMipmaps method" Url="html/40b4176a-b08d-912c-7a66-303272084350.htm" />
   <HelpKINode Title="MagFilter property">
     <HelpKINode Title="SamplerObject.MagFilter Property " Url="html/2814e4fe-0791-c693-23c2-b0a6e2032d54.htm" />
     <HelpKINode Title="Texture.MagFilter Property " Url="html/88c26997-38dc-3fcb-75db-4934eaa24ed8.htm" />
   </HelpKINode>
-  <HelpKINode Title="MapBuffer method" Url="html/c050bf5f-a5e4-e380-f140-647d10d18628.htm" />
+  <HelpKINode Title="MapBuffer method" Url="html/a8c94dc4-f843-ecbe-a69d-871efd4d4e70.htm" />
   <HelpKINode Title="material field" Url="html/6089f84a-38fc-945d-c077-2f044a21bf01.htm" />
+  <HelpKINode Title="MeshBatchUtils class">
+    <HelpKINode Title="MeshBatchUtils Class" Url="html/b49c8af9-6dcd-b048-29f9-bcc373e53609.htm" />
+    <HelpKINode Title="methods" Url="html/a6a11b8a-6d98-9e36-c78f-c3fa9565d55b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MeshBatchUtils.GroupContainersByPrimitiveType(Of T) method" Url="html/8da95180-f839-4a8e-92f5-5840dc80c22e.htm" />
+  <HelpKINode Title="MeshBatchUtils.GroupContainersByPrimitiveType&lt;T&gt; method" Url="html/8da95180-f839-4a8e-92f5-5840dc80c22e.htm" />
   <HelpKINode Title="MinFilter property">
     <HelpKINode Title="SamplerObject.MinFilter Property " Url="html/567a8566-3592-1c1c-8499-592f6ec2fb93.htm" />
     <HelpKINode Title="Texture.MinFilter Property " Url="html/1ecc7df4-d3c7-c89b-884f-19076031f1cd.htm" />
   </HelpKINode>
   <HelpKINode Title="MipmapLoading class">
-    <HelpKINode Title="MipmapLoading Class" Url="html/3f5ad8e6-ad3b-9178-78bb-a04967331ddc.htm" />
-    <HelpKINode Title="methods" Url="html/2a320aa1-1240-f529-d49d-4aa8eb129521.htm" />
+    <HelpKINode Title="MipmapLoading Class" Url="html/219e757c-15e3-3da5-ba02-e7fa6a52ad66.htm" />
+    <HelpKINode Title="methods" Url="html/199715ea-8e62-8761-53a8-189c26c78cd4.htm" />
   </HelpKINode>
-  <HelpKINode Title="MipmapLoading.LoadBaseLevelGenerateMipmaps method" Url="html/78dbecd6-550d-0ef6-d6fd-57d02aae7589.htm" />
-  <HelpKINode Title="MipmapLoading.LoadCompressedMipmaps method" Url="html/9320106a-3df0-fc7b-ee98-79517b556ab3.htm" />
-  <HelpKINode Title="MipmapLoading.LoadCompressedMipMaps(Of T) method" Url="html/d5a1cf38-71b5-7b30-d9d9-b27d00b280ba.htm" />
-  <HelpKINode Title="MipmapLoading.LoadCompressedMipMaps&lt;T&gt; method" Url="html/d5a1cf38-71b5-7b30-d9d9-b27d00b280ba.htm" />
-  <HelpKINode Title="MipmapLoading.LoadFacesBaseLevel(Of T) method" Url="html/acbe001c-7085-be22-605f-96f3732fe245.htm" />
-  <HelpKINode Title="MipmapLoading.LoadFacesBaseLevel&lt;T&gt; method" Url="html/acbe001c-7085-be22-605f-96f3732fe245.htm" />
-  <HelpKINode Title="MipmapLoading.LoadFacesMipmaps(Of T) method" Url="html/b4bc41e2-2029-c597-856d-0e7868afca26.htm" />
-  <HelpKINode Title="MipmapLoading.LoadFacesMipmaps&lt;T&gt; method" Url="html/b4bc41e2-2029-c597-856d-0e7868afca26.htm" />
-  <HelpKINode Title="MipmapLoading.LoadUncompressedMipmaps method" Url="html/012b6054-f1a0-c07d-ad10-550b417e4575.htm" />
+  <HelpKINode Title="MipmapLoading.LoadBaseLevelGenerateMipmaps method" Url="html/dddd6af8-9a8c-cabf-3579-b51503da1668.htm" />
+  <HelpKINode Title="MipmapLoading.LoadCompressedMipmaps method" Url="html/da3fa37a-f4da-fee3-8432-f80f2ee5ff58.htm" />
+  <HelpKINode Title="MipmapLoading.LoadCompressedMipMaps(Of T) method" Url="html/d915daa9-1452-12a3-4718-cbdbfc5d3b60.htm" />
+  <HelpKINode Title="MipmapLoading.LoadCompressedMipMaps&lt;T&gt; method" Url="html/d915daa9-1452-12a3-4718-cbdbfc5d3b60.htm" />
+  <HelpKINode Title="MipmapLoading.LoadFacesBaseLevel(Of T) method" Url="html/2d9f3926-5797-c369-e87f-593fe81a0b71.htm" />
+  <HelpKINode Title="MipmapLoading.LoadFacesBaseLevel&lt;T&gt; method" Url="html/2d9f3926-5797-c369-e87f-593fe81a0b71.htm" />
+  <HelpKINode Title="MipmapLoading.LoadFacesMipmaps(Of T) method" Url="html/95498ab5-e885-02ec-3939-61f389cb9f71.htm" />
+  <HelpKINode Title="MipmapLoading.LoadFacesMipmaps&lt;T&gt; method" Url="html/95498ab5-e885-02ec-3939-61f389cb9f71.htm" />
+  <HelpKINode Title="MipmapLoading.LoadUncompressedMipmaps method" Url="html/40b4176a-b08d-912c-7a66-303272084350.htm" />
   <HelpKINode Title="modelViewMatrix field" Url="html/20dc7c4d-6acb-bae4-efed-8b52fc45d1c2.htm" />
   <HelpKINode Title="ModelViewMatrix property" Url="html/054848ed-f7ef-eedf-3444-9f9c2ae75779.htm" />
   <HelpKINode Title="mvpMatrix field" Url="html/16132a0f-aed5-d078-12b2-213813d4bb09.htm" />
   <HelpKINode Title="MvpMatrix property" Url="html/31f93dee-a418-61a8-6d9f-67e7e5f0fc0d.htm" />
   <HelpKINode Title="name field" Url="html/626f3312-b13f-2ebb-833e-ea2ad40e3427.htm" />
+  <HelpKINode Title="Name property" Url="html/ea4fbea0-60e4-701e-7973-a089e3b56807.htm" />
   <HelpKINode Title="NearClipPlane property" Url="html/f9a6d8fa-8ac2-dc63-bb2c-3d6c45bb011e.htm" />
   <HelpKINode Title="ObjectType property">
-    <HelpKINode Title="BufferObject.ObjectType Property " Url="html/5f9ca290-8c15-c536-a23d-3326e20d172d.htm" />
-    <HelpKINode Title="Framebuffer.ObjectType Property " Url="html/d4396754-9b2a-fbb4-6ebc-02961f2becf3.htm" />
+    <HelpKINode Title="BufferObject.ObjectType Property " Url="html/4c49049f-08a2-1f84-10ba-9629709406ae.htm" />
+    <HelpKINode Title="Framebuffer.ObjectType Property " Url="html/67b45a2c-7b64-6de9-8aa4-bc829df2c78b.htm" />
     <HelpKINode Title="GLObject.ObjectType Property " Url="html/3eba3144-7ed9-38d4-c631-0ed88a7a3916.htm" />
-    <HelpKINode Title="Renderbuffer.ObjectType Property " Url="html/cbcc8f80-bb40-0618-804c-cf85dbac944e.htm" />
+    <HelpKINode Title="Renderbuffer.ObjectType Property " Url="html/b18e1c37-b3ef-ff96-5828-e281821c0070.htm" />
     <HelpKINode Title="SamplerObject.ObjectType Property " Url="html/5d25d7a0-7a38-e743-370f-52df15fee9cb.htm" />
     <HelpKINode Title="Shader.ObjectType Property " Url="html/472a2b1c-0058-66ce-7b99-17f0cbffd549.htm" />
     <HelpKINode Title="Texture.ObjectType Property " Url="html/cae58088-5971-5396-1367-7475a8d95f6d.htm" />
-    <HelpKINode Title="VertexArrayObject.ObjectType Property " Url="html/5cc2dec8-5aa6-523c-9bd5-6b3c0415b38b.htm" />
+    <HelpKINode Title="VertexArrayObject.ObjectType Property " Url="html/be6ca806-3ea0-6479-5de4-b14f2890c727.htm" />
   </HelpKINode>
   <HelpKINode Title="One enumeration member" Url="html/778382c1-b679-1ead-8f3d-82da9f36a212.htm" />
+  <HelpKINode Title="OnInvalidUniformSet event" Url="html/b2473e7e-4419-4cc0-21f5-3f7f7a23ef73.htm" />
+  <HelpKINode Title="OnLinkStatusChanged event" Url="html/671cfac1-6abb-ba31-f3d7-0b4d0a76bc6e.htm" />
   <HelpKINode Title="OpenGLExtensions class">
     <HelpKINode Title="OpenGLExtensions Class" Url="html/9c77005b-6922-e393-88c9-e124e8f23009.htm" />
     <HelpKINode Title="methods" Url="html/d636e9da-99c0-857b-2d80-2009d52f8c97.htm" />
   </HelpKINode>
   <HelpKINode Title="OpenGLExtensions.InitializeCurrentExtensions method" Url="html/30cdf4d8-38cf-9490-01ea-7f8bd619759e.htm" />
   <HelpKINode Title="OpenGLExtensions.IsAvailable method" Url="html/fa6c2518-c59c-b0e8-d23f-4728d94d4a5f.htm" />
-  <HelpKINode Title="Orthogonalize method" Url="html/ef940126-ea57-5484-53bb-88936c4df0d5.htm" />
+  <HelpKINode Title="Orthogonalize method" Url="html/9cd3fea9-af7c-01dd-855e-58faea56c087.htm" />
   <HelpKINode Title="Pan method" Url="html/3a58d14d-77f6-0b49-5d67-73b2376eb282.htm" />
   <HelpKINode Title="perspectiveMatrix field" Url="html/bafaa571-efa8-48cc-f01b-d6c0ad69576e.htm" />
   <HelpKINode Title="PerspectiveMatrix property" Url="html/02ed62ec-5d8a-87f8-c909-feb4877a7721.htm" />
   <HelpKINode Title="pixelFormat field" Url="html/4cd74dec-7dbe-605f-4ccf-8c791689c0e2.htm" />
   <HelpKINode Title="pixelInternalFormat field" Url="html/3b1319a1-d71a-ddf8-b38b-cd6a7c77f5bb.htm" />
-  <HelpKINode Title="PixelInternalFormat property" Url="html/3e282ee9-19be-a4ba-10d1-024165988adf.htm" />
+  <HelpKINode Title="PixelInternalFormat property" Url="html/87755339-abcf-0f4c-2f08-08adb248668d.htm" />
   <HelpKINode Title="pixelType field" Url="html/f0a7af45-f444-8e2b-171e-4127472a86dd.htm" />
   <HelpKINode Title="Position property" Url="html/6e27911b-c8db-aca5-55ff-64da7b8dc759.htm" />
+  <HelpKINode Title="primitiveType field" Url="html/44088e09-c74b-d9e3-1f66-3b171c420f5c.htm" />
   <HelpKINode Title="PrimitiveType property" Url="html/aa955604-1084-b02e-ad4b-ee3d70d5383e.htm" />
-  <HelpKINode Title="ProgramCreatedSuccessfully property" Url="html/e4e61ff5-4006-3d16-7375-1c7fc7ededfc.htm" />
-  <HelpKINode Title="ProgramStatusIsValid property" Url="html/eb1a4d77-ebe5-8303-4a4d-34512634a3c0.htm" />
-  <HelpKINode Title="ReadImagePixels method" Url="html/96c59787-5e8f-f458-054a-647133fc41d0.htm" />
+  <HelpKINode Title="ReadImagePixels method" Url="html/4b747fff-bad1-15a8-cc5b-2c94a93f7e5e.htm" />
   <HelpKINode Title="referenceAlpha field" Url="html/431b6ea7-fbed-e68c-23dc-7412cb1a12f1.htm" />
   <HelpKINode Title="ReferenceCounting class">
     <HelpKINode Title="ReferenceCounting Class" Url="html/2b3ead96-c3e7-bbea-5efb-7e12766c2c6f.htm" />
@@ -363,17 +389,17 @@
   <HelpKINode Title="ReferenceCounting.IncrementReference(Of T) method" Url="html/0bd6d2b6-a05c-909a-0f98-070c4fdd8951.htm" />
   <HelpKINode Title="ReferenceCounting.IncrementReference&lt;T&gt; method" Url="html/0bd6d2b6-a05c-909a-0f98-070c4fdd8951.htm" />
   <HelpKINode Title="Renderbuffer class">
-    <HelpKINode Title="Renderbuffer Class" Url="html/4af77e62-0063-b725-8717-372ce4c3a225.htm" />
-    <HelpKINode Title="constructor" Url="html/2a8923e4-d868-42b3-a7b4-b5391ff5d060.htm" />
-    <HelpKINode Title="fields" Url="html/9a9505e4-4e73-5828-b3aa-5e45657d9055.htm" />
-    <HelpKINode Title="methods" Url="html/d7140359-0d52-57b0-1897-3e896f6977b8.htm" />
-    <HelpKINode Title="properties" Url="html/0980188c-8642-a418-4e71-dec7d4b042c8.htm" />
+    <HelpKINode Title="Renderbuffer Class" Url="html/f487979f-275d-b571-e232-9aaae876a92a.htm" />
+    <HelpKINode Title="constructor" Url="html/22c4a3bc-83ca-a27e-9360-fd1ec398f8a9.htm" />
+    <HelpKINode Title="fields" Url="html/56624841-f4ea-3e5b-0794-2e05b2f7f395.htm" />
+    <HelpKINode Title="methods" Url="html/e19aa8fe-a68c-9ad3-4bb2-3fda11ae5064.htm" />
+    <HelpKINode Title="properties" Url="html/8b291d6f-6f10-0841-7de2-a3f1f54f3d3e.htm" />
   </HelpKINode>
-  <HelpKINode Title="Renderbuffer.Bind method" Url="html/f198ee36-b50e-f9b5-0b97-629a92157d83.htm" />
-  <HelpKINode Title="Renderbuffer.Height property" Url="html/524c9637-6dbb-dcbf-4c3a-65559fd7bfa9.htm" />
-  <HelpKINode Title="Renderbuffer.ObjectType property" Url="html/cbcc8f80-bb40-0618-804c-cf85dbac944e.htm" />
-  <HelpKINode Title="Renderbuffer.Renderbuffer constructor" Url="html/2a8923e4-d868-42b3-a7b4-b5391ff5d060.htm" />
-  <HelpKINode Title="Renderbuffer.Width property" Url="html/e5942173-9ae2-67fb-cc6c-02a4826388c7.htm" />
+  <HelpKINode Title="Renderbuffer.Bind method" Url="html/bd8f8c42-3dda-9c3d-47ff-7ffbd6ec26e6.htm" />
+  <HelpKINode Title="Renderbuffer.Height property" Url="html/dc616ba2-adc2-bd0a-c9d7-3e4c3460ce33.htm" />
+  <HelpKINode Title="Renderbuffer.ObjectType property" Url="html/b18e1c37-b3ef-ff96-5828-e281821c0070.htm" />
+  <HelpKINode Title="Renderbuffer.Renderbuffer constructor" Url="html/22c4a3bc-83ca-a27e-9360-fd1ec398f8a9.htm" />
+  <HelpKINode Title="Renderbuffer.Width property" Url="html/b61ce958-0d42-73ef-60fa-e8e4d12d0af5.htm" />
   <HelpKINode Title="RenderbufferObject enumeration member" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
   <HelpKINode Title="renderHeight field" Url="html/c6170277-f534-44ed-4388-b3eb3d54aff4.htm" />
   <HelpKINode Title="RenderSettings class">
@@ -392,7 +418,9 @@
   <HelpKINode Title="RenderSettings.AlphaBlendSettings.blendingEquationAlpha field" Url="html/6bfa4876-d6e8-793b-be9d-f9caf357b787.htm" />
   <HelpKINode Title="RenderSettings.AlphaBlendSettings.blendingEquationRgb field" Url="html/e3d5ea96-f9bb-006d-639e-b68e3f01d62c.htm" />
   <HelpKINode Title="RenderSettings.AlphaBlendSettings.destinationFactor field" Url="html/89e02b5e-4006-5a9a-8d0e-5bfddaf18c16.htm" />
-  <HelpKINode Title="RenderSettings.AlphaBlendSettings.enableAlphaBlending field" Url="html/627f08a1-65fd-49c2-bb28-946efb6a54fe.htm" />
+  <HelpKINode Title="RenderSettings.AlphaBlendSettings.enabled field" Url="html/cf530da4-cee6-8b56-5a3e-2ccb0ffed6a8.htm" />
+  <HelpKINode Title="RenderSettings.AlphaBlendSettings.Equals method" Url="html/8f12dbf2-983f-432a-bba6-95f9097d81d6.htm" />
+  <HelpKINode Title="RenderSettings.AlphaBlendSettings.GetHashCode method" Url="html/f1cf145b-8ad7-88b7-8592-5614eb08d07f.htm" />
   <HelpKINode Title="RenderSettings.AlphaBlendSettings.sourceFactor field" Url="html/b7f902be-a671-7cb3-4e8e-ec1ad6d68e3b.htm" />
   <HelpKINode Title="RenderSettings.AlphaTestSettings class">
     <HelpKINode Title="RenderSettings.AlphaTestSettings Class" Url="html/11e280fd-d1ba-d545-431b-afec4f2ab2bb.htm" />
@@ -401,7 +429,9 @@
   <HelpKINode Title="RenderSettings.alphaTestSettings field" Url="html/a6c5844a-5cd7-78ae-769f-6cbbdcaf45df.htm" />
   <HelpKINode Title="RenderSettings.AlphaTestSettings.alphaFunction field" Url="html/f4110bb6-19c9-d900-efb6-9c64e76a5716.htm" />
   <HelpKINode Title="RenderSettings.AlphaTestSettings.AlphaTestSettings constructor" Url="html/bcc9b678-c1c1-ed68-ab2e-de4c4f141bad.htm" />
-  <HelpKINode Title="RenderSettings.AlphaTestSettings.enableAlphaTesting field" Url="html/0a1fb217-ad39-961c-7e49-c8c1f3f58232.htm" />
+  <HelpKINode Title="RenderSettings.AlphaTestSettings.enabled field" Url="html/56655418-207f-e73b-4f1a-4fd945adee6f.htm" />
+  <HelpKINode Title="RenderSettings.AlphaTestSettings.Equals method" Url="html/f1d65150-8f5b-b860-356c-5b77950211c4.htm" />
+  <HelpKINode Title="RenderSettings.AlphaTestSettings.GetHashCode method" Url="html/b93dc012-0bd8-e498-2338-bf1d7ec98f32.htm" />
   <HelpKINode Title="RenderSettings.AlphaTestSettings.referenceAlpha field" Url="html/431b6ea7-fbed-e68c-23dc-7412cb1a12f1.htm" />
   <HelpKINode Title="RenderSettings.DepthTestSettings class">
     <HelpKINode Title="RenderSettings.DepthTestSettings Class" Url="html/c73230a7-7f3a-76ab-8d0e-97c3242e07f2.htm" />
@@ -411,19 +441,24 @@
   <HelpKINode Title="RenderSettings.DepthTestSettings.depthFunction field" Url="html/a0f2f4a8-2ae9-405c-7f4b-7e0454cf0370.htm" />
   <HelpKINode Title="RenderSettings.DepthTestSettings.depthMask field" Url="html/2f9bab94-5ecb-225d-a76d-9a3418c63940.htm" />
   <HelpKINode Title="RenderSettings.DepthTestSettings.DepthTestSettings constructor" Url="html/bc802207-dfa6-7e0f-aa28-98ea5836c415.htm" />
-  <HelpKINode Title="RenderSettings.DepthTestSettings.enableDepthTest field" Url="html/36ecf933-d700-9a1a-e6d3-2210e9656dd0.htm" />
+  <HelpKINode Title="RenderSettings.DepthTestSettings.enabled field" Url="html/4fa7e4eb-dc6c-d79c-0f0b-65e8aa3cdf1d.htm" />
+  <HelpKINode Title="RenderSettings.DepthTestSettings.Equals method" Url="html/c930b5cf-16a5-52c7-5bf0-99a195f16d81.htm" />
+  <HelpKINode Title="RenderSettings.DepthTestSettings.GetHashCode method" Url="html/2f14c203-b460-7b87-14b3-99c1d0e1e5ef.htm" />
+  <HelpKINode Title="RenderSettings.Equals method" Url="html/5779af7b-c288-53ba-6050-15962ce0aaef.htm" />
   <HelpKINode Title="RenderSettings.FaceCullingSettings class">
     <HelpKINode Title="RenderSettings.FaceCullingSettings Class" Url="html/02e154f3-6142-bcc3-cc11-75cb6fc989f3.htm" />
     <HelpKINode Title="constructor" Url="html/74a8916c-7333-b071-bf8b-50604f64082a.htm" />
   </HelpKINode>
   <HelpKINode Title="RenderSettings.faceCullingSettings field" Url="html/8c5f0f3a-b2ae-8360-214e-f3a493aef763.htm" />
   <HelpKINode Title="RenderSettings.FaceCullingSettings.cullFaceMode field" Url="html/5ab54332-b31e-6b96-3ea2-3c2cad812194.htm" />
-  <HelpKINode Title="RenderSettings.FaceCullingSettings.enableFaceCulling field" Url="html/8cd67761-30e8-9501-eead-8892020825c5.htm" />
+  <HelpKINode Title="RenderSettings.FaceCullingSettings.enabled field" Url="html/c2694b28-8292-c817-098e-dabc65e2aa73.htm" />
+  <HelpKINode Title="RenderSettings.FaceCullingSettings.Equals method" Url="html/2c91941d-78b0-88bb-832d-2fcfb8398b1a.htm" />
   <HelpKINode Title="RenderSettings.FaceCullingSettings.FaceCullingSettings constructor" Url="html/74a8916c-7333-b071-bf8b-50604f64082a.htm" />
+  <HelpKINode Title="RenderSettings.FaceCullingSettings.GetHashCode method" Url="html/929447d9-5352-a62e-b957-7759af999fe1.htm" />
   <HelpKINode Title="RenderSettings.RenderSettings constructor" Url="html/22f888f6-027b-7a0c-846d-298d8cbd9230.htm" />
   <HelpKINode Title="renderWidth field" Url="html/b9192bd9-5018-46ab-49a4-c14599c3fd2f.htm" />
   <HelpKINode Title="ResetToDefaultPosition method" Url="html/4b3cb49c-473c-724f-6de8-d6a501671dcc.htm" />
-  <HelpKINode Title="RgbToHsv method" Url="html/7286f93e-75b1-85ba-3952-8bbb0b4855b3.htm" />
+  <HelpKINode Title="RgbToHsv method" Url="html/c26f2165-fee3-c5f1-292b-a073168b3f45.htm" />
   <HelpKINode Title="Rotate method" Url="html/e605d6b1-e828-f738-a7a1-95685be65648.htm" />
   <HelpKINode Title="rotationMatrix field" Url="html/b12d7ce6-56f0-af11-7c41-86c981889fc2.htm" />
   <HelpKINode Title="RotationMatrix property" Url="html/29b7d3a0-6c34-f79b-0fca-05d0bc61a328.htm" />
@@ -431,7 +466,7 @@
   <HelpKINode Title="RotationXRadians property" Url="html/6de49510-512c-ba46-eaed-5e06fab8bc10.htm" />
   <HelpKINode Title="RotationYDegrees property" Url="html/be0d284a-3558-b7ab-d2f0-63c32a57876f.htm" />
   <HelpKINode Title="RotationYRadians property" Url="html/cc68e1fd-fb0a-b326-340f-e08b6f3e0e02.htm" />
-  <HelpKINode Title="SamplePixelColor method" Url="html/56fd8d43-fde3-0dd8-9ee6-9c00e3194ac3.htm" />
+  <HelpKINode Title="SamplePixelColor method" Url="html/e4a35f9a-bd70-6548-2460-67366f83ef58.htm" />
   <HelpKINode Title="SamplerObject class">
     <HelpKINode Title="SamplerObject Class" Url="html/8ae0c22f-815f-b4d9-624d-d7125612cfab.htm" />
     <HelpKINode Title="constructor" Url="html/d1b24ee0-203a-d86c-bada-289ba3d0e6c9.htm" />
@@ -450,17 +485,17 @@
   <HelpKINode Title="SamplerObject.TextureWrapT property" Url="html/34e89ebf-945e-6fa0-598a-5ac911d48c86.htm" />
   <HelpKINode Title="SetBoolToInt method" Url="html/e82e2158-83af-ee58-1999-547e8873bf40.htm" />
   <HelpKINode Title="SetCameraUniforms method" Url="html/a77c82a5-aad9-0ff6-0e92-4554eb0d396b.htm" />
-  <HelpKINode Title="SetData(Of T) method" Url="html/9b82d600-fd76-7bbe-ce5f-2a76bfcff5da.htm" />
-  <HelpKINode Title="SetData&lt;T&gt; method" Url="html/9b82d600-fd76-7bbe-ce5f-2a76bfcff5da.htm" />
-  <HelpKINode Title="SetDrawBuffers method" Url="html/678bf3bb-8795-685b-5f59-53006338158a.htm" />
+  <HelpKINode Title="SetData(Of T) method" Url="html/f4f93dfc-e834-13c4-cdef-463b0aecf7d7.htm" />
+  <HelpKINode Title="SetData&lt;T&gt; method" Url="html/f4f93dfc-e834-13c4-cdef-463b0aecf7d7.htm" />
+  <HelpKINode Title="SetDrawBuffers method" Url="html/ce252037-45be-fb76-9537-5fc85e6c8bac.htm" />
   <HelpKINode Title="SetFloat method" Url="html/4667945c-51a5-d5c9-32f9-b7275de45090.htm" />
   <HelpKINode Title="SetInt method" Url="html/7d24f981-65bb-f811-cdd3-4ae18b6dbbb1.htm" />
   <HelpKINode Title="SetMatrix4x4 method" Url="html/32e64187-a5a0-fe0c-22f5-312989916caf.htm" />
-  <HelpKINode Title="SetReadBuffer method" Url="html/e98b077d-e0b1-b94a-fc0e-6f05d1d6f718.htm" />
+  <HelpKINode Title="SetReadBuffer method" Url="html/9967129b-d3a6-3dac-5304-85c363948201.htm" />
   <HelpKINode Title="SetShaderUniforms method" Url="html/d3d4bcbb-4d4e-e5a1-15ed-9dae71696ad0.htm" />
-  <HelpKINode Title="SetSubData(Of T) method" Url="html/c201cede-c4cd-4344-4d59-7fcf04afd246.htm" />
-  <HelpKINode Title="SetSubData&lt;T&gt; method" Url="html/c201cede-c4cd-4344-4d59-7fcf04afd246.htm" />
-  <HelpKINode Title="SetTexture method" Url="html/0f092262-3c70-1aab-ecd3-9056e95328d7.htm" />
+  <HelpKINode Title="SetSubData(Of T) method" Url="html/f5a081c5-b7f9-e2d0-a694-7649599d67d8.htm" />
+  <HelpKINode Title="SetSubData&lt;T&gt; method" Url="html/f5a081c5-b7f9-e2d0-a694-7649599d67d8.htm" />
+  <HelpKINode Title="SetTexture method" Url="html/9f10d884-674e-45bf-b6d5-633d7ddc64f9.htm" />
   <HelpKINode Title="SetUint method" Url="html/5fbf47a1-5621-beb2-acc8-5dd2d1fe8755.htm" />
   <HelpKINode Title="SetVector2 method" Url="html/f880525a-5438-f5e4-a0a6-19229c367452.htm" />
   <HelpKINode Title="SetVector3 method" Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm" />
@@ -477,42 +512,56 @@
   <HelpKINode Title="SFGenericModel.RenderState.RenderSettings.AlphaTestSettings class" Url="html/11e280fd-d1ba-d545-431b-afec4f2ab2bb.htm" />
   <HelpKINode Title="SFGenericModel.RenderState.RenderSettings.DepthTestSettings class" Url="html/c73230a7-7f3a-76ab-8d0e-97c3242e07f2.htm" />
   <HelpKINode Title="SFGenericModel.RenderState.RenderSettings.FaceCullingSettings class" Url="html/02e154f3-6142-bcc3-cc11-75cb6fc989f3.htm" />
+  <HelpKINode Title="SFGenericModel.Utils namespace" Url="html/b006a84c-4186-f353-603f-ca7cf540497a.htm" />
+  <HelpKINode Title="SFGenericModel.Utils.MeshBatchUtils class" Url="html/b49c8af9-6dcd-b048-29f9-bcc373e53609.htm" />
+  <HelpKINode Title="SFGenericModel.Utils.VertexContainer(Of T) class" Url="html/bba437a7-99ef-0f90-a8a1-1274ca7abe2f.htm" />
+  <HelpKINode Title="SFGenericModel.Utils.VertexContainer&lt;T&gt; class" Url="html/bba437a7-99ef-0f90-a8a1-1274ca7abe2f.htm" />
   <HelpKINode Title="SFGenericModel.ValueCount enumeration" Url="html/778382c1-b679-1ead-8f3d-82da9f36a212.htm" />
   <HelpKINode Title="SFGenericModel.VertexAttributeInfo structure" Url="html/651bb54c-780d-bc08-d8e3-f08c17deccd2.htm" />
   <HelpKINode Title="SFGraphics.Cameras namespace" Url="html/f6c90837-9263-45f4-526c-1308df151f51.htm" />
   <HelpKINode Title="SFGraphics.Cameras.Camera class" Url="html/55763658-fa95-89b3-dd63-d435d83a2965.htm" />
   <HelpKINode Title="SFGraphics.GLObjects namespace" Url="html/89eff43d-eee7-adc8-ae13-a8fe4590eee0.htm" />
-  <HelpKINode Title="SFGraphics.GLObjects.BufferObject class" Url="html/36d87545-2ab6-9669-58c0-e34229551ff3.htm" />
-  <HelpKINode Title="SFGraphics.GLObjects.Framebuffer class" Url="html/593236b6-fb7b-90de-e7dd-23447b83eec0.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.BufferObjects namespace" Url="html/2fef7e75-da18-6d9a-1eb8-bdb38f6f7e6f.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.BufferObjects.BufferObject class" Url="html/ad2057ce-3196-4d8e-2fab-72fbce134093.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Framebuffers namespace" Url="html/c6734b5d-10c1-179a-f45f-cff074820a2a.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Framebuffers.Framebuffer class" Url="html/6ec4df59-44ed-2aa4-36d3-536d9e18f445.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.GLObject class" Url="html/aad1ac4e-43a0-c591-9d67-f2d517b821f8.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.GLObject.GLObjectType enumeration" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.GLObjectManagement namespace" Url="html/2dda5013-50fd-a258-1327-ca4f3778d479.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.GLObjectManagement.GLObjectManager class" Url="html/2e0dc763-29d9-42a4-a8e3-383aa3282063.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.GLObjectManagement.ReferenceCounting class" Url="html/2b3ead96-c3e7-bbea-5efb-7e12766c2c6f.htm" />
-  <HelpKINode Title="SFGraphics.GLObjects.Renderbuffer class" Url="html/4af77e62-0063-b725-8717-372ce4c3a225.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.RenderBuffers namespace" Url="html/d94b98ff-88be-5ffd-1300-c2761a1baab9.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.RenderBuffers.Renderbuffer class" Url="html/f487979f-275d-b571-e232-9aaae876a92a.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Samplers namespace" Url="html/455a72d8-ccc4-704f-e297-d8dd3ca0e19d.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Samplers.SamplerObject class" Url="html/8ae0c22f-815f-b4d9-624d-d7125612cfab.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Shaders namespace" Url="html/e67cb253-66c7-f317-f0a8-771f13f5400b.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Shaders.Shader class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Shaders.Shader.InvalidUniformSetEventHandler delegate" Url="html/e164a57e-14b0-5a9c-d612-1976067ed8cb.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Shaders.Shader.LinkStatusChangedEventHandler delegate" Url="html/53a5ef15-3a8f-7afd-51c8-ddff3af9ecbc.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Shaders.ShaderEventArgs namespace" Url="html/3e9121fe-ac73-289c-9e7c-c7c24a48d865.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Shaders.ShaderEventArgs.UniformSetEventArgs class" Url="html/65de4def-7e43-ad0b-9b0d-7976af7f25b5.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures namespace" Url="html/8731cd26-8abe-c112-041e-e1ec2ff957cc.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.DepthTexture class" Url="html/2a7e1fcb-e577-a16e-3db6-a25702ed10ae.htm" />
-  <HelpKINode Title="SFGraphics.GLObjects.Textures.MipmapLoading class" Url="html/3f5ad8e6-ad3b-9178-78bb-a04967331ddc.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.Texture class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.Texture2D class" Url="html/07a44df6-ea50-7391-fec0-a5d5956700c2.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureCubeMap class" Url="html/3bd6f636-8f6e-5492-92e5-d22a62d05d80.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureFormats namespace" Url="html/a291cd8e-c3ed-069a-d149-49f3ab1a35e8.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureFormats.TextureFormatTools class" Url="html/479daa07-c333-3733-260f-b1d19ec1ff40.htm" />
   <HelpKINode Title="SFGraphics.GLObjects.Textures.TextureFormats.TextureFormatUncompressed structure" Url="html/051eb643-74ea-64dd-3e17-8ab29e86e2db.htm" />
-  <HelpKINode Title="SFGraphics.GLObjects.VertexArrayObject class" Url="html/de91690a-ea5d-b761-02e7-1591492dcb57.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Textures.Utils namespace" Url="html/7ad3fca6-ee62-4a96-afaf-2e4ed720ce89.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.Textures.Utils.MipmapLoading class" Url="html/219e757c-15e3-3da5-ba02-e7fa6a52ad66.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.VertexArrays namespace" Url="html/f33c3524-80a4-539f-7877-5cdf709b0a79.htm" />
+  <HelpKINode Title="SFGraphics.GLObjects.VertexArrays.VertexArrayObject class" Url="html/e40d8b4e-d6d6-c942-014e-3f8f10ad65cd.htm" />
   <HelpKINode Title="SFGraphics.Tools namespace" Url="html/817ea4c3-ee09-529f-e1cd-88986c72cab7.htm" />
   <HelpKINode Title="SFGraphics.Tools.OpenGLExtensions class" Url="html/9c77005b-6922-e393-88c9-e124e8f23009.htm" />
   <HelpKINode Title="SFGraphics.Utils namespace" Url="html/e6b859fd-c666-dbce-6434-d8576df4e4fe.htm" />
   <HelpKINode Title="SFGraphics.Utils.BoundingSphereGenerator class" Url="html/bb5fc28c-48c9-a24b-e4f3-b7c93902b52a.htm" />
-  <HelpKINode Title="SFGraphics.Utils.ColorTools class" Url="html/ebe614cb-eb2a-b7e0-d60e-d9eb26dc1f75.htm" />
-  <HelpKINode Title="SFGraphics.Utils.VectorTools class" Url="html/7cce6341-ff2d-b466-2cab-756cae863a0c.htm" />
+  <HelpKINode Title="SFGraphics.Utils.ColorUtils class" Url="html/b01ca1af-7cca-9859-6730-9ca0257a12df.htm" />
+  <HelpKINode Title="SFGraphics.Utils.VectorUtils class" Url="html/e2cc9130-c940-379e-a485-b2989d714901.htm" />
   <HelpKINode Title="Shader class">
     <HelpKINode Title="Shader Class" Url="html/63d3f0bf-39fb-ebf1-0b9a-4706fa3d393a.htm" />
     <HelpKINode Title="constructor" Url="html/9ec9665b-395b-7e68-dc8f-06aa56ef3044.htm" />
+    <HelpKINode Title="events" Url="html/87148ad6-53c7-36a1-e0d0-784bc7fc5395.htm" />
     <HelpKINode Title="fields" Url="html/c4c9e9a7-1a6a-317e-a5c0-53d1ce0b3090.htm" />
     <HelpKINode Title="methods" Url="html/9f763234-5311-6efc-fa7b-9952779051dc.htm" />
     <HelpKINode Title="properties" Url="html/7a83572d-4392-39c8-f468-798ab2546e22.htm" />
@@ -525,29 +574,34 @@
   <HelpKINode Title="Shader.GetErrorLog method" Url="html/3187e021-7ac7-903e-6f38-9a740fae08aa.htm" />
   <HelpKINode Title="Shader.GetProgramBinary method" Url="html/afb90f3f-7080-298b-dad6-c3f2b42b4df4.htm" />
   <HelpKINode Title="Shader.GetUniformLocation method" Url="html/54fbce00-df0f-f1b3-b25b-51cb974eaa1d.htm" />
+  <HelpKINode Title="Shader.InvalidUniformSetEventHandler delegate" Url="html/e164a57e-14b0-5a9c-d612-1976067ed8cb.htm" />
+  <HelpKINode Title="Shader.LinkStatusChangedEventHandler delegate" Url="html/53a5ef15-3a8f-7afd-51c8-ddff3af9ecbc.htm" />
+  <HelpKINode Title="Shader.LinkStatusIsOk property" Url="html/912238c1-18f3-f660-1549-184f086e381c.htm" />
   <HelpKINode Title="Shader.LoadProgramBinary method" Url="html/b2d9e3cd-640b-dd86-1a09-533079cb788e.htm" />
   <HelpKINode Title="Shader.LoadShader method" Url="html/5f0eede5-1368-6f23-74f1-1565fe34c533.htm" />
   <HelpKINode Title="Shader.ObjectType property" Url="html/472a2b1c-0058-66ce-7b99-17f0cbffd549.htm" />
-  <HelpKINode Title="Shader.ProgramCreatedSuccessfully property" Url="html/e4e61ff5-4006-3d16-7375-1c7fc7ededfc.htm" />
-  <HelpKINode Title="Shader.ProgramStatusIsValid property" Url="html/eb1a4d77-ebe5-8303-4a4d-34512634a3c0.htm" />
+  <HelpKINode Title="Shader.OnInvalidUniformSet event" Url="html/b2473e7e-4419-4cc0-21f5-3f7f7a23ef73.htm" />
+  <HelpKINode Title="Shader.OnLinkStatusChanged event" Url="html/671cfac1-6abb-ba31-f3d7-0b4d0a76bc6e.htm" />
   <HelpKINode Title="Shader.SetBoolToInt method" Url="html/e82e2158-83af-ee58-1999-547e8873bf40.htm" />
   <HelpKINode Title="Shader.SetFloat method" Url="html/4667945c-51a5-d5c9-32f9-b7275de45090.htm" />
   <HelpKINode Title="Shader.SetInt method" Url="html/7d24f981-65bb-f811-cdd3-4ae18b6dbbb1.htm" />
   <HelpKINode Title="Shader.SetMatrix4x4 method" Url="html/32e64187-a5a0-fe0c-22f5-312989916caf.htm" />
-  <HelpKINode Title="Shader.SetTexture method" Url="html/0f092262-3c70-1aab-ecd3-9056e95328d7.htm" />
+  <HelpKINode Title="Shader.SetTexture method" Url="html/9f10d884-674e-45bf-b6d5-633d7ddc64f9.htm" />
   <HelpKINode Title="Shader.SetUint method" Url="html/5fbf47a1-5621-beb2-acc8-5dd2d1fe8755.htm" />
   <HelpKINode Title="Shader.SetVector2 method" Url="html/f880525a-5438-f5e4-a0a6-19229c367452.htm" />
   <HelpKINode Title="Shader.SetVector3 method" Url="html/6fa7d33d-c84e-4047-07b1-669ce507719d.htm" />
   <HelpKINode Title="Shader.SetVector4 method" Url="html/1c3319f3-b6c4-7a13-5fb1-1738c9d4f8b9.htm" />
   <HelpKINode Title="Shader.Shader constructor" Url="html/9ec9665b-395b-7e68-dc8f-06aa56ef3044.htm" />
   <HelpKINode Title="Shader.UseProgram method" Url="html/63a1d945-0b38-ea1c-3756-33f604e27b96.htm" />
+  <HelpKINode Title="Shader.ValidateStatusIsOk property" Url="html/228d6abf-828d-d58e-7171-5444fa090d0c.htm" />
   <HelpKINode Title="ShaderProgram enumeration member" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
+  <HelpKINode Title="Size property" Url="html/a2b368c5-ea56-9d3c-689c-90c5a8714c25.htm" />
   <HelpKINode Title="sizeInBytes field" Url="html/909837bf-eaf9-515f-0de1-89621c633a9d.htm" />
   <HelpKINode Title="sizeInBytesByType field" Url="html/cbf322c2-8895-662e-807f-211fdb74c5dd.htm" />
   <HelpKINode Title="sourceFactor field" Url="html/b7f902be-a671-7cb3-4e8e-ec1ad6d68e3b.htm" />
   <HelpKINode Title="Target property">
-    <HelpKINode Title="BufferObject.Target Property " Url="html/e507dc7a-0a3d-7c4c-6d3e-f20df3ba383a.htm" />
-    <HelpKINode Title="Framebuffer.Target Property " Url="html/63d88d74-6e54-159f-a314-072012f1042d.htm" />
+    <HelpKINode Title="BufferObject.Target Property " Url="html/b6b6a3b9-e55f-d987-f97d-9c0a3782ccf7.htm" />
+    <HelpKINode Title="Framebuffer.Target Property " Url="html/10e01ea9-061f-0a96-0210-bfb50f5baac4.htm" />
   </HelpKINode>
   <HelpKINode Title="Texture class">
     <HelpKINode Title="Texture Class" Url="html/70b3581a-0cd8-b651-5655-225f5da9981e.htm" />
@@ -624,34 +678,48 @@
   <HelpKINode Title="translationMatrix field" Url="html/d5ffc74b-39e5-533f-5242-e370fbdf0577.htm" />
   <HelpKINode Title="TranslationMatrix property" Url="html/6ca46b62-f4a3-7180-809c-ef0c9e76fab4.htm" />
   <HelpKINode Title="Two enumeration member" Url="html/778382c1-b679-1ead-8f3d-82da9f36a212.htm" />
-  <HelpKINode Title="Unbind method" Url="html/88443384-af95-02e5-772f-c426ed3c8a74.htm" />
-  <HelpKINode Title="Unmap method" Url="html/94bfb135-38ac-40ef-7083-272e811ca8fe.htm" />
+  <HelpKINode Title="Type property" Url="html/c769e1a3-a043-c04d-6da5-271ea349b84d.htm" />
+  <HelpKINode Title="Unbind method" Url="html/66bd84a6-dc83-6acc-1bf2-eb93a142a526.htm" />
+  <HelpKINode Title="UniformSetEventArgs class">
+    <HelpKINode Title="UniformSetEventArgs Class" Url="html/65de4def-7e43-ad0b-9b0d-7976af7f25b5.htm" />
+    <HelpKINode Title="constructor" Url="html/cee829c2-beff-565c-0148-51bcf21c2ba9.htm" />
+    <HelpKINode Title="methods" Url="html/dfbfe6b8-eae3-e1a4-0708-6a5f1d41f7a2.htm" />
+    <HelpKINode Title="properties" Url="html/87bad3df-07ea-e400-66e7-6c7ae5167032.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UniformSetEventArgs.Name property" Url="html/ea4fbea0-60e4-701e-7973-a089e3b56807.htm" />
+  <HelpKINode Title="UniformSetEventArgs.Size property" Url="html/a2b368c5-ea56-9d3c-689c-90c5a8714c25.htm" />
+  <HelpKINode Title="UniformSetEventArgs.Type property" Url="html/c769e1a3-a043-c04d-6da5-271ea349b84d.htm" />
+  <HelpKINode Title="UniformSetEventArgs.UniformSetEventArgs constructor" Url="html/cee829c2-beff-565c-0148-51bcf21c2ba9.htm" />
+  <HelpKINode Title="UniformSetEventArgs.Value property" Url="html/ce66b95f-f93c-39ff-1d40-6a5386f21b34.htm" />
+  <HelpKINode Title="Unmap method" Url="html/e522fa10-c807-84a7-f1a3-2a36b5f3f185.htm" />
   <HelpKINode Title="UpdateMatrices method" Url="html/b1fac833-274a-1618-95cf-eb72b8900ae0.htm" />
   <HelpKINode Title="UseProgram method" Url="html/63a1d945-0b38-ea1c-3756-33f604e27b96.htm" />
+  <HelpKINode Title="ValidateStatusIsOk property" Url="html/228d6abf-828d-d58e-7171-5444fa090d0c.htm" />
+  <HelpKINode Title="Value property" Url="html/ce66b95f-f93c-39ff-1d40-6a5386f21b34.htm" />
   <HelpKINode Title="ValueCount enumeration" Url="html/778382c1-b679-1ead-8f3d-82da9f36a212.htm" />
   <HelpKINode Title="valueCount field" Url="html/f7c316b4-a1dc-8079-227c-b5a15a74608b.htm" />
-  <HelpKINode Title="Vector4FromColor method" Url="html/6bc7d059-9dba-76e2-348d-a6971b91b9dd.htm" />
-  <HelpKINode Title="VectorTools class">
-    <HelpKINode Title="VectorTools Class" Url="html/7cce6341-ff2d-b466-2cab-756cae863a0c.htm" />
-    <HelpKINode Title="methods" Url="html/7c833c56-957b-34e7-9c68-32cbc8270b46.htm" />
+  <HelpKINode Title="Vector4FromColor method" Url="html/e36c3842-7392-6125-5a5f-c21243d76f8f.htm" />
+  <HelpKINode Title="VectorUtils class">
+    <HelpKINode Title="VectorUtils Class" Url="html/e2cc9130-c940-379e-a485-b2989d714901.htm" />
+    <HelpKINode Title="methods" Url="html/9864181d-4acb-ecfe-6220-4dd9b84461a6.htm" />
   </HelpKINode>
-  <HelpKINode Title="VectorTools.CalculateNormal method" Url="html/a787575e-2920-7871-f0c4-ee2a1f4a5701.htm" />
-  <HelpKINode Title="VectorTools.GenerateTangentBitangent method" Url="html/dc0dc333-3265-7c3f-ccc7-a6104f27c2ca.htm" />
-  <HelpKINode Title="VectorTools.GetDegrees method" Url="html/ddc40ab9-4ad7-a6c5-e9f6-902783e76fff.htm" />
-  <HelpKINode Title="VectorTools.GetRadians method" Url="html/b724c13f-7d12-c028-98ed-6111ed8bbc48.htm" />
-  <HelpKINode Title="VectorTools.Orthogonalize method" Url="html/ef940126-ea57-5484-53bb-88936c4df0d5.htm" />
+  <HelpKINode Title="VectorUtils.CalculateNormal method" Url="html/96e48f81-291d-8d9c-13f3-26881552368f.htm" />
+  <HelpKINode Title="VectorUtils.GenerateTangentBitangent method" Url="html/151033ce-e6ce-720b-3037-700395754603.htm" />
+  <HelpKINode Title="VectorUtils.GetDegrees method" Url="html/97c19445-1d73-962c-45ad-69bf5a04cdf3.htm" />
+  <HelpKINode Title="VectorUtils.GetRadians method" Url="html/5a0fa6e0-e788-f29d-f3b6-68a809a99d44.htm" />
+  <HelpKINode Title="VectorUtils.Orthogonalize method" Url="html/9cd3fea9-af7c-01dd-855e-58faea56c087.htm" />
   <HelpKINode Title="VertexArrayObject class">
-    <HelpKINode Title="VertexArrayObject Class" Url="html/de91690a-ea5d-b761-02e7-1591492dcb57.htm" />
-    <HelpKINode Title="constructor" Url="html/d0e4bc97-a010-8acf-4c7d-23641b582fa0.htm" />
-    <HelpKINode Title="fields" Url="html/dca65886-8497-2991-32e8-de13173a3ee1.htm" />
-    <HelpKINode Title="methods" Url="html/37d0db05-f763-797e-65dd-24e61a31b378.htm" />
-    <HelpKINode Title="properties" Url="html/f38c9f5f-ccdb-c33e-98de-f5c1d0d14185.htm" />
+    <HelpKINode Title="VertexArrayObject Class" Url="html/e40d8b4e-d6d6-c942-014e-3f8f10ad65cd.htm" />
+    <HelpKINode Title="constructor" Url="html/410c4997-cfa8-c8ee-54e9-e8b79d74ec4d.htm" />
+    <HelpKINode Title="fields" Url="html/b1fe53bf-d888-cb9c-e083-dc84c91d1091.htm" />
+    <HelpKINode Title="methods" Url="html/4df9a34a-a303-6850-3834-364672f80586.htm" />
+    <HelpKINode Title="properties" Url="html/278cf40d-4cb4-1262-601c-2f0340abb059.htm" />
   </HelpKINode>
   <HelpKINode Title="VertexArrayObject enumeration member" Url="html/3ff31fb2-3ca8-99c6-9e9f-fda21314967c.htm" />
-  <HelpKINode Title="VertexArrayObject.Bind method" Url="html/f1731aec-397b-7596-91f5-e12c9c82545c.htm" />
-  <HelpKINode Title="VertexArrayObject.ObjectType property" Url="html/5cc2dec8-5aa6-523c-9bd5-6b3c0415b38b.htm" />
-  <HelpKINode Title="VertexArrayObject.Unbind method" Url="html/88443384-af95-02e5-772f-c426ed3c8a74.htm" />
-  <HelpKINode Title="VertexArrayObject.VertexArrayObject constructor" Url="html/d0e4bc97-a010-8acf-4c7d-23641b582fa0.htm" />
+  <HelpKINode Title="VertexArrayObject.Bind method" Url="html/f4275fb3-e0ae-5e53-647c-7bba3168f7e3.htm" />
+  <HelpKINode Title="VertexArrayObject.ObjectType property" Url="html/be6ca806-3ea0-6479-5de4-b14f2890c727.htm" />
+  <HelpKINode Title="VertexArrayObject.Unbind method" Url="html/66bd84a6-dc83-6acc-1bf2-eb93a142a526.htm" />
+  <HelpKINode Title="VertexArrayObject.VertexArrayObject constructor" Url="html/410c4997-cfa8-c8ee-54e9-e8b79d74ec4d.htm" />
   <HelpKINode Title="vertexAttribPointerType field" Url="html/6afd5f12-ee4b-bd9d-f207-700d06f10d7a.htm" />
   <HelpKINode Title="VertexAttributeInfo structure">
     <HelpKINode Title="VertexAttributeInfo Structure" Url="html/651bb54c-780d-bc08-d8e3-f08c17deccd2.htm" />
@@ -664,10 +732,32 @@
   <HelpKINode Title="VertexAttributeInfo.valueCount field" Url="html/f7c316b4-a1dc-8079-227c-b5a15a74608b.htm" />
   <HelpKINode Title="VertexAttributeInfo.vertexAttribPointerType field" Url="html/6afd5f12-ee4b-bd9d-f207-700d06f10d7a.htm" />
   <HelpKINode Title="VertexAttributeInfo.VertexAttributeInfo constructor" Url="html/fc150ae0-a2ef-9894-31a1-6c0a7abfc1f7.htm" />
+  <HelpKINode Title="VertexContainer(Of T) class">
+    <HelpKINode Title="VertexContainer(T) Class" Url="html/bba437a7-99ef-0f90-a8a1-1274ca7abe2f.htm" />
+    <HelpKINode Title="constructor" Url="html/07e7322e-4fdf-f2c8-d39c-9d12510320da.htm" />
+    <HelpKINode Title="fields" Url="html/7c5ac89a-5db9-ea23-4670-c66c65513ccd.htm" />
+    <HelpKINode Title="methods" Url="html/6939cc9e-cd42-7ca5-f7b4-b08b85ae67f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VertexContainer(Of T).primitiveType field" Url="html/44088e09-c74b-d9e3-1f66-3b171c420f5c.htm" />
+  <HelpKINode Title="VertexContainer(Of T).VertexContainer constructor" Url="html/07e7322e-4fdf-f2c8-d39c-9d12510320da.htm" />
+  <HelpKINode Title="VertexContainer(Of T).vertexIndices field" Url="html/be81fe10-f2e4-165b-2c37-9e2d79198ff2.htm" />
+  <HelpKINode Title="VertexContainer(Of T).vertices field" Url="html/1f94dc68-b60a-438c-13d9-d7d6b8cecf7f.htm" />
+  <HelpKINode Title="VertexContainer&lt;T&gt; class">
+    <HelpKINode Title="VertexContainer(T) Class" Url="html/bba437a7-99ef-0f90-a8a1-1274ca7abe2f.htm" />
+    <HelpKINode Title="constructor" Url="html/07e7322e-4fdf-f2c8-d39c-9d12510320da.htm" />
+    <HelpKINode Title="fields" Url="html/7c5ac89a-5db9-ea23-4670-c66c65513ccd.htm" />
+    <HelpKINode Title="methods" Url="html/6939cc9e-cd42-7ca5-f7b4-b08b85ae67f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VertexContainer&lt;T&gt;.primitiveType field" Url="html/44088e09-c74b-d9e3-1f66-3b171c420f5c.htm" />
+  <HelpKINode Title="VertexContainer&lt;T&gt;.VertexContainer constructor" Url="html/07e7322e-4fdf-f2c8-d39c-9d12510320da.htm" />
+  <HelpKINode Title="VertexContainer&lt;T&gt;.vertexIndices field" Url="html/be81fe10-f2e4-165b-2c37-9e2d79198ff2.htm" />
+  <HelpKINode Title="VertexContainer&lt;T&gt;.vertices field" Url="html/1f94dc68-b60a-438c-13d9-d7d6b8cecf7f.htm" />
+  <HelpKINode Title="vertexIndices field" Url="html/be81fe10-f2e4-165b-2c37-9e2d79198ff2.htm" />
+  <HelpKINode Title="vertices field" Url="html/1f94dc68-b60a-438c-13d9-d7d6b8cecf7f.htm" />
   <HelpKINode Title="Width property">
     <HelpKINode Title="DepthTexture.Width Property " Url="html/110cb489-e746-ed44-92d8-21178cac66c9.htm" />
-    <HelpKINode Title="Framebuffer.Width Property " Url="html/94368bd7-5168-c07f-50c0-dda8f6b8f9d5.htm" />
-    <HelpKINode Title="Renderbuffer.Width Property " Url="html/e5942173-9ae2-67fb-cc6c-02a4826388c7.htm" />
+    <HelpKINode Title="Framebuffer.Width Property " Url="html/98c371e8-21e0-5743-b3ca-355c8ace493e.htm" />
+    <HelpKINode Title="Renderbuffer.Width Property " Url="html/b61ce958-0d42-73ef-60fa-e8e4d12d0af5.htm" />
     <HelpKINode Title="Texture2D.Width Property " Url="html/98c736e6-13f1-760f-f845-0b4f6b8bd857.htm" />
   </HelpKINode>
   <HelpKINode Title="Zoom method" Url="html/c9b0e124-f4c8-de42-939d-5e0c292ab3d8.htm" />
